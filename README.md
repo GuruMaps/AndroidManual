@@ -239,9 +239,11 @@ _2. By speed:_
 
 _3. By altitude:_
 
+![](/assets/default_styles_3.png)
+
 **Default bookmark category**. Selected category is a default icon for newly created and imported bookmarks.
 
-![](/assets/Screenshot_1509010506.png)
+![](/assets/default_styles.png)
 
 ## Advanced ##
 
@@ -378,25 +380,3 @@ Tip: It is not necessary to type punctuation or worry about capital letters, but
 ![](/assets/search_5.png)
 
 Tip: You may enter the coordinates in any of the supported coordinate formats. Read also: [Coordinates Format]().
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
