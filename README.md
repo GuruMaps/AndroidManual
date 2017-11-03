@@ -41,7 +41,7 @@ If you use Galileo feature, that require permission to read/write on your device
 
 ![](/assets/read_write_permission.png)
 
-## Navigating the Map
+# Navigating the Map
 
 There are standard and well known gestures such as tap, drag and pinch which are used to interact with the app.  
 To **move the map**, drag it with your finger in the direction you want to position the map:  
@@ -544,7 +544,7 @@ In this section, we will go over some of advanced features as they pertain to sp
 
 * [Custom Map Sources]()
 * [Offline Maps Import]()
-* [Getting Exported Files]()
+* [MIUI users troubleshooting]()
 
 ## Custom Map Sources
 
