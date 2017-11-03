@@ -162,9 +162,9 @@ Vector maps by countries are available and free for download within the app:
 
 ![](/assets/download_maps.png)
 
-* to download the map of the selected country, tap the  button next to the country name in Available Maps list,
+* to download the map of the selected country, tap the ![](/assets/icon_download_map.png) button next to the country name in Available Maps list,
 * to pause a download, tap the cell with the country name, tap it again to resume a download,
-* to go to the downloaded map, tap the  button,
+* to go to the downloaded map, tap the ![](/assets/icon_show_on_map.png) button,
 * to remove the map, swipe your finger across the country name from right to left, then tap the Delete button, or use the Edit button.
 
 As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for downloaded map, you will see Update button near the downloaded map name.
@@ -410,7 +410,7 @@ The Bookmarks feature, available as an in-app purchase, is a great way to keep y
 * Change the bookmark icon view. Tap the Category field and select the icon you want from the list with available icons that will open, then tap Back.
 * Move a bookmark to another collection. Tap the field with the collection name and select the new name from the list of available collections, then tap Back.
 
-**View the bookmark on the map**. Tap the  icon to open the map centered on the selected bookmark.  
+**View the bookmark on the map**. Tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected bookmark.  
 **Export a bookmark**. Tap the ![](/assets/icon_share.png) icon at the bottom of the bookmark details screen and choose the way to save your data.
 
 Read more: [Exporting Geodata]().  
@@ -431,13 +431,13 @@ Tip: while a GPS track is being recorded, notification appear in notification dr
 
 Note: to record GPS tracks in the background, make sure you have allowed the background activity for Galileo app in Settings &gt; General &gt; Background App Refresh.
 
-**Manage track details**. Tap the  button next to the track name to:
+**Manage track details**. Tap the ![](/assets/icon_info.png) button next to the track name to:
 
 * Edit track name and description. Tap the name or description field and use the onscreen keyboard to type a new text.
 * Move a track to another collection. Tap the field with the collection name and select the new name from the list of available collections, then tap Back.
 * Change the track style. Tap the desired color or set the track color change based on speed or altitude.
 
-**View the track on the map**. Tap the icon to open the map centered on the selected GPS track.
+**View the track on the map**. Tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
 
 **Delete a track**. Scroll down the track details screen and click the Delete button.  
 **Export a track**. Tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your track.
@@ -477,14 +477,14 @@ In Edit mode you can to delete multiple selected elements or move them to other 
 ## Collections Details
 
 **Create new collection**. You might want to create new collections for an individual trip, country, city or certain set of POIs. To add a new collection tap the **+** floating button. Enter collection details, then tap OK.  
-**Manage collection details**. Tap the button next to the collection name to:
+**Manage collection details**. Tap the ![](/assets/icon_info.png) button next to the collection name to:
 
 * Edit collection name and description. Tap the name or description field and use the onscreen keyboard to type a new text.
 * Set a collection as default. Tap the Default Collection switch to ON to save newly added bookmarks and GPS tracks to this collection.
 
-**Show & hide the collection from map**. To keep maps uncluttered and easy to use, you may choose what to show on the map at any given moment. To hide or show a whole collection at once \(in addition to being able to show or hide each individual item in list\), go to the collection details screen and tap button.
+**Show & hide the collection from map**. To keep maps uncluttered and easy to use, you may choose what to show on the map at any given moment. To hide or show a whole collection at once \(in addition to being able to show or hide each individual item in list\), go to the collection details screen and tap ![](/assets/icon_hide.png) button.
 
-**View the collection on the map**. Tap the  icon to open the map centered on the selected collection.
+**View the collection on the map**. Tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected collection.
 
 **Delete a collection**. Scroll down the collection details screen and click the Delete button.
 
