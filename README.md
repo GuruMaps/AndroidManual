@@ -648,18 +648,6 @@ Here’s what you need to do to solve the problem:
 
 * Pull down toggle bar.
 * Hold the GPS icon to reach GPS settings.
-* Here, enable “Allow background location”
-* Return to GPS settings
-* Here, go to Background location access > Allow the app (Galileo in this case) by selecting it.
+* Here, change Location mode to High accuracy
 
-To make sure the app isn’t killed while in background,
-
-* Go to Settings > Additional Settings > Battery > Manage app battery usage, now disable/turn off the following options.
-* Manage app battery usage > Restrict apps when battery is low
-* Now, reboot the device and check.
-
-Finally,
-
-* Open the Security App > Data Usage > Data Usage Stats, select the apps and check whether “Background data” is allowed or not. You want this to be enabled.
-				
-This solution was found on the [MIUI forums](http://en.miui.com/thread-162531-1-1.html), where you can find more info about the issue.
+To make sure the app isn’t killed while in background go to Settings  > Battery & performance > Manage app battery usage, now disable/turn off Power saving mode or add Galileo to battery saver exceptions, by clicking Choose apps > Galileo > No restrictions.			
