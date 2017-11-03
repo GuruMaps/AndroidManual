@@ -4,7 +4,7 @@
 * [Navigating the Map](/navigating-the-map.md)
 * [Settings](/settings.md)
 * [Features](/features.md)
-* [Tips and Tricks and Troubleshooting]()
+* [Tips and Tricks and Troubleshooting](/tips-and-tricks-and-troubleshooting.md)
 
 ### What is Galileo Offline Maps?
 
