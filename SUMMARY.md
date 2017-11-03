@@ -1,3 +1,9 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Launching the Application](launching-the-application.md)
+* [Navigating the Map](navigating-the-map.md)
+* [Settings](settings.md)
+* [Features](features.md)
+* [Tips and Tricks and Troubleshooting](tips-and-tricks-and-troubleshooting.md)
+
