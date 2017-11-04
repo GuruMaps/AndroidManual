@@ -29,7 +29,7 @@ If you use Galileo feature, that require permission to read/write on your device
 
 ![](/assets/read_write_permission.png)
 
-# Navigating the Map
+# Navigating the Map {#navigatingTheMap}
 
 There are standard and well known gestures such as tap, drag and pinch which are used to interact with the app.  
 To **move the map**, drag it with your finger in the direction you want to position the map:  
@@ -41,11 +41,11 @@ To **zoom out**, tap with two fingers or pinch your thumb and finger together:
 Tip: to zoom in/out with only one finger, double-tap the map, hold the second tap and drag your finger up or down.  
 To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](settings.md#showZoomButtons) to enable them.
 
-# Interface Overview
+# Interface Overview {#interfaceOverview}
 
 > This section will provide you information about basic usage and interactions in Galileo.
 
-## Application Modes
+## Application Modes {#applicationModes}
 
 ### Location button {#locationButton}
 
