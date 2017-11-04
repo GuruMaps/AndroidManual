@@ -17,6 +17,8 @@
   * [Trip Monitor](01-launching-the-application.md#tripMonitor)
   * [Map Sources](01-launching-the-application.md#mapSources)
     * [Offline vector map](01-launching-the-application.md#offlineVectorMap)
+    * [Onliner raster maps](01-launching-the-application.md#onlineRasterMaps)
+    * [Imported offline maps](01-launching-the-application.md#importedOfflineMaps)
 * [Features](02-features.md)
   * [Measuring Distance](02-features.md#measuringDistance)
   * [Importing KML/KMZ/GPX Files](02-features.md#importing)

@@ -112,8 +112,30 @@ Vector map source is set by default. It uses data from OpenStreetMap. App visual
 
 Note: vector and raster are the two basic data structures for storing maps. Vector map is a set of map features expressed by different types of geometry: points, lines and polygons. While raster map is represented by square images, therefore vector maps are smaller than raster maps. Plus, vector map works faster and it is simpler to update and maintain, whereas a raster image will have to be completely reproduced \(e.g. when a new road is added\).
 
-Read also: [Settings for Vector Maps](03-settings.md#vectorMapsSettings).
+Read also: [Vector Maps Settings](03-settings.md#vectorMapsSettings).
+	 						 						
+### Online raster maps {#onlineRasterMaps}
+						
+There is a list of built-in raster map sources available online:
 
+* HikeBikeMap
+* Humanitarian OSM
+* OpenBusMap
+* OpenCycleMap
+* OpenStreetMap
+* Lite Stamen – Terrain
+* Stamen – Toner
+						 						
+Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in while you have access to the Internet.
+						 						
+Note: map download speed can vary while using an online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
+						
+Read also: [Cache Info](03-settings.md#cacheInfo). 
 
+### Imported offline maps {#importedOfflineMaps}
+
+App supports maps in .sqlitedb and .mbtiles formats, previously created on computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection.
+			
+Read also: [Offline Maps Import](04-tips-and-tricks-and-troubleshooting.md#offlineMapsImport).
  
 
