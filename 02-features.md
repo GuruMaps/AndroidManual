@@ -178,7 +178,7 @@ Tip: It is not necessary to type punctuation or worry about capital letters, but
 
 ![](/assets/search_5.png)
 
-Tip: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](advanced.md#unitsFormat).
+Tip: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
 
 ## Navigation {#navigation}
 

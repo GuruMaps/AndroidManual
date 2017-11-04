@@ -64,7 +64,7 @@ The following group of settings is used to configure how the main map looks.
  
  To hide trip monitor panel from the map view, turn off this option.
 
-Read also: [Trip Monitor]().
+Read also: [Trip Monitor](01-launching-the-application.md#tripMonitor).
 
 ### Show Coordinates {#showCoordinates}
 
@@ -72,7 +72,7 @@ To enable the real-time display of coordinates on the map, turn on this option. 
 
 ![](/assets/show_coordinates.png)
 
-Read also: [Units Format]().
+Read also: [Units Format](#unitsFormat).
 
 ### Show Zoom Buttons {#showZoomButtons}
 
@@ -80,7 +80,7 @@ Read also: [Units Format]().
 
 ![](/assets/zoom_buttons.png)
 
-Read also: [Navigating the Map]().
+Read also: [Navigating the Map](01-launching-the-application.md#navigatingTheMap).
 
 ### Screen Auto-Lock {#screenAutoLock}
 
@@ -164,7 +164,7 @@ Map Refresh. To set how often to refresh cached map tiles, go to Settings &gt; C
 
 **Cache Info**. All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space.
 
-Read also: [Custom Map Sources](custom-map-sources.md).
+Read also: [Custom Map Sources](04-tips-and-tricks-and-troubleshooting.md#customMapSources).
 
 ### Maps Storage {#mapsStorage}
 
