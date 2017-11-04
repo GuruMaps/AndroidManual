@@ -79,7 +79,7 @@ Every time you see this icon ![](/assets/icon_question.png), it means that your 
 
 Note: depending on your device and available services, Location Services uses a combination of cellular, Wi-Fi, Bluetooth, and GPS to determine your location. If you're not within a clear line of sight to GPS satellites, your device can determine your location using crowd-sourced Wi-Fi and cell tower locations.
 
-## Trip Monitor
+## Trip Monitor {#tripMonitor}
 
 Trip monitor panel provides you all the necessary trip statistics while moving. If enabled, it will display such useful information as \(from left to right\):
 
