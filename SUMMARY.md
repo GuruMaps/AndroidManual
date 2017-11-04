@@ -38,4 +38,9 @@
     * [Units Format](advanced.md#unitsFormat)
 * [Features](features.md)
 * [Tips and Tricks and Troubleshooting](tips-and-tricks-and-troubleshooting.md)
+  * [Custom Map Sources](custom-map-sources.md)
+    * [Simple custom map sources](custom-map-sources.md#simpleCustomMapSources)
+    * [Custom multi-layer map sources](custom-map-sources.md#customMultiLayerMapSources)
+  * [Offline Maps Import](offline-maps-import.md)
+  * [MIUI users troubleshooting](miui-users-troubleshooting.md)
 
