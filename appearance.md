@@ -1,8 +1,8 @@
-## Appearance{#appearance}
+## Appearance
 
 The following group of settings is used to configure how the main map looks.  
 
- ### Show Trip Monitor {#showTripMonitor}
+### Show Trip Monitor {#showTripMonitor}
  
  To hide trip monitor panel from the map view, turn off this option.
 

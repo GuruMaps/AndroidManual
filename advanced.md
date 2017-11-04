@@ -1,6 +1,6 @@
 ## Advanced
 
-### Sync
+### Sync {#sync}
 
 Galileo allows you to sync your collections between all your devices \(Android and iOS\). The only thing you need to do, is login using your Facebook or Google account. Go to Settings &gt; Sync and choose one of these.
 
@@ -8,7 +8,7 @@ Galileo allows you to sync your collections between all your devices \(Android a
 
 Consider to use same account on all devices which you want to sync Collections.
 
-### Navigation
+### Navigation {#navigation}
 
 You can change language of navigation voice instructions, by choosing it in Settings &gt; Navigation &gt; Voice Instructions.
 
@@ -16,7 +16,7 @@ You can change language of navigation voice instructions, by choosing it in Sett
 
 If preferable language is not supported by your default Text-To-Speech Engine \(TTS\) it will appear in light gray colour. In this case try to choose another TTS in System Settings &gt; Language & Input &gt;  Speech &gt; Text-to-speech output, or install the new one, which support your preferable language.
 
-### Data Backup
+### Data Backup {#dataBackup}
 
 Backing up data is a great way to minimize accidental data loss and restore the most important geodata on your device.  
 **Create backup**. Tap Back Up My Collections button on Settings &gt; Data Backup screen to backup the collections within the app.  
@@ -46,7 +46,7 @@ Restore from a backup. There are several ways to restore your data from backup:
 
 Important: restoring from backup will remove all current bookmarks and GPS tracks in My Collections.
 
-### Cache info
+### Cache info {#cacheInfo}
 
 To switch between the map sources and select the map which is the best one for you, go to [Settings &gt; Map Source]().  
 Map Refresh. To set how often to refresh cached map tiles, go to Settings &gt; Cache Info. All tiles older than selected time will be downloaded while browsing online.
@@ -57,13 +57,13 @@ Map Refresh. To set how often to refresh cached map tiles, go to Settings &gt; C
 
 Read also: [Custom Map Sources]().
 
-### Maps Storage
+### Maps Storage {#mapsStorage}
 
 If your device supporting SD Card memory extension and one of your storages become insufficient you can change default Map Download Storage in Settings &gt; Maps Storage. After selection one of the available storages all downloaded Maps will be moved to selected one. Maps will be downloaded on the storage with the largest amount of free space by default. If you don’t see Maps Storage Settings your device might not support SD Card memory extension or SD Card is not present.
 
 ![](/assets/maps_storage.png)
 
-### GPS Filtering
+### GPS Filtering {#gpsFiltering}
 
 Galileo Offline Maps app supports GPS data filtering in Settings &gt; GPS Filtering.  
 **Accuracy Threshold**. Filter by the minimum accuracy at which the new points will be accepted. New points will be added to GPS track while recording if the accuracy is lower than selected \(recommended value is 150 m\).
@@ -77,7 +77,7 @@ Example: You are recording your GPS track while walking around your neighbourhoo
 
 Example: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking, and the recorded track will take up more space. You may enable the distance filter to ignore GPS points if they are too close to each other. New points will start recording as you exceed the distance selected in the filter.
 
-### Units Format
+### Units Format {#unitsFormat}
 
 To set the units system and coordinates format you would like to use within the Galileo Offline Maps, go to Settings &gt; Units Format.  
 **Units system**. The following units of measure for distance and speed are available to select from:
