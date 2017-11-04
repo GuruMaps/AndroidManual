@@ -39,7 +39,7 @@ To **zoom in**, use double tap or pinch your thumb and finger apart:
 To **zoom out**, tap with two fingers or pinch your thumb and finger together:  
 ![](/assets/two-finger-tap.png) ![](/assets/reducing-size.png)  
 Tip: to zoom in/out with only one finger, double-tap the map, hold the second tap and drag your finger up or down.  
-To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](settings.md#showZoomButtons) to enable them.
+To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](02-settings.md#showZoomButtons) to enable them.
 
 # Interface Overview {#interfaceOverview}
 
@@ -95,4 +95,12 @@ While recording a GPS track it will additionally display \(from left to right\):
 * distance traveled
 * trip duration
 
-To hide trip monitor panel from map view, go to app [Settings &gt; Show Trip Monitor](settings.md#showTripMonitor).
+To hide trip monitor panel from map view, go to app [Settings &gt; Show Trip Monitor](02-settings.md#showTripMonitor).
+
+## Map Sources {#mapSources}
+ 
+Note: vector and raster are the two basic data structures for storing maps. Vector map is a set of map features expressed by different types of geometry: points, lines and polygons. While raster map is represented by square images, therefore vector maps are smaller than raster maps. Plus, vector map works faster and it is simpler to update and maintain, whereas a raster image will have to be completely reproduced \(e.g. when a new road is added\).
+ 
+Read also: [Settings for Vector Maps]().
+ 
+
