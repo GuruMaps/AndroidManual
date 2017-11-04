@@ -28,7 +28,7 @@ Read also: [Navigating the Map]().
 
 Turn this option on if you want your device to lock the screen automatically after a specified period of time.
 
-### Default Styles
+### Default Styles {#defaultStyles}
 
 To set a color for GPS tracks and category for bookmarks used by default, go to app Settings &gt; Default Styles.  
 **Default track style**. Selected style is a default line style for the newly recorded and imported GPS tracks:
