@@ -9,5 +9,4 @@
 * [Appearance](appearance.md)
 * [Advanced](advanced.md)
 * [Features](features.md)
-* Advanced
 
