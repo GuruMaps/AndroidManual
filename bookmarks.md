@@ -20,5 +20,5 @@ The Bookmarks feature, available as an in-app purchase, is a great way to keep y
 **View the bookmark on the map**. Tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected bookmark.  
 **Export a bookmark**. Tap the ![](/assets/icon_share.png) icon at the bottom of the bookmark details screen and choose the way to save your data.
 
-Read more: [Exporting Geodata]().  
+Read more: [Exporting Geodata](exporting-geodata.md).  
 Tip: The best way to export several bookmarks at once is to save them in one collection and export the whole collection.

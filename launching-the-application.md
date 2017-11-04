@@ -13,7 +13,7 @@ When launching the Galileo application on your device for the first time, you wi
 
 ![](/assets/location_permissions.png)
 
-If you use Galileo feature, that require location services \(Such as [Tracking](Link URL) and [Routing](Link URL)\), you will see message asking you to enable it, if was disabled before.
+If you use Galileo feature, that require location services \(Such as [Tracking](application-modes.md#trackingMode) and [Routing](navigation.md#routingMode)\), you will see message asking you to enable it, if was disabled before.
 
 * Tapping OK will continue your previous action.
 * Tapping CANCEL will prevent the app from accessing your location. You may enable Location Services for Galileo at any time in system Settings &gt; Privacy &gt; Location Services. \(Settings  &gt; Location Services\).
@@ -22,7 +22,7 @@ If you use Galileo feature, that require location services \(Such as [Tracking](
 
 ### Read & Write permissions {#readWritePermissions}
 
-If you use Galileo feature, that require permission to read/write on your device storage \(Such as [Data backup](Link URL)\), you will see message asking you to enable it.
+If you use Galileo feature, that require permission to read/write on your device storage \(Such as [Data backup](advanced.md#dataBackup)\), you will see message asking you to enable it.
 
 * Tapping ALLOW will continue your previous action.
 * Tapping DENY will prevent the app from accessing your device storage. You may allow read/write permissions for Galileo at any time in system Settings &gt; Apps &gt; Galileo &gt; Permissions. 

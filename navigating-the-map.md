@@ -8,7 +8,7 @@ To **zoom in**, use double tap or pinch your thumb and finger apart:
 To **zoom out**, tap with two fingers or pinch your thumb and finger together:  
 ![](/assets/two-finger-tap.png) ![](/assets/reducing-size.png)  
 Tip: to zoom in/out with only one finger, double-tap the map, hold the second tap and drag your finger up or down.  
-To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons]() to enable them.
+To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](settings.md#showZoomButtons) to enable them.
 
 
 

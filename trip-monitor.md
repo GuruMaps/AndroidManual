@@ -14,4 +14,4 @@ While recording a GPS track it will additionally display \(from left to right\):
 * distance traveled
 * trip duration
 
-To hide trip monitor panel from map view, go to app [Settings &gt; Show Trip Monitor]().
+To hide trip monitor panel from map view, go to app [Settings &gt; Show Trip Monitor](settings.md#showTripMonitor).

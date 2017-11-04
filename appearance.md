@@ -6,7 +6,7 @@ The following group of settings is used to configure how the main map looks.
  
  To hide trip monitor panel from the map view, turn off this option.
 
-Read also: [Trip Monitor]().
+Read also: [Trip Monitor](trip-monitor.md).
 
 ### Show Coordinates {#showCoordinates}
 
@@ -22,7 +22,7 @@ Read also: [Units Format]().
 
 ![](/assets/zoom_buttons.png)
 
-Read also: [Navigating the Map]().
+Read also: [Navigating the Map](navigating-the-map.md).
 
 ### Screen Auto-Lock {#screenAutoLock}
 

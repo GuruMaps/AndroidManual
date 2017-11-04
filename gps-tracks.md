@@ -24,6 +24,6 @@ Note: to record GPS tracks in the background, make sure you have allowed the bac
 **Delete a track**. Scroll down the track details screen and click the Delete button.  
 **Export a track**. Tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your track.
 
-Read more: [Exporting Geodata]().
+Read more: [Exporting Geodata](exporting-geodata.md).
 
 Tip: The best way to export several GPS tracks at once is to save them in one collection and export the collection.

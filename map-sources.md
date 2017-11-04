@@ -13,5 +13,5 @@ Vector map source is set by default. It uses data from OpenStreetMap. App visual
 
 Note: vector and raster are the two basic data structures for storing maps. Vector map is a set of map features expressed by different types of geometry: points, lines and polygons. While raster map is represented by square images, therefore vector maps are smaller than raster maps. Plus, vector map works faster and it is simpler to update and maintain, whereas a raster image will have to be completely reproduced \(e.g. when a new road is added\).
 
-Read also: [Settings for Vector Maps]().
+Read also: [Settings for Vector Maps](vector-maps-settings.md).
 

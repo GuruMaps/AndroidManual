@@ -55,7 +55,7 @@ Map Refresh. To set how often to refresh cached map tiles, go to Settings &gt; C
 
 **Cache Info**. All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space.
 
-Read also: [Custom Map Sources]().
+Read also: [Custom Map Sources](custom-map-sources.md).
 
 ### Maps Storage {#mapsStorage}
 
