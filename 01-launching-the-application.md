@@ -1,4 +1,4 @@
-# Launching the Application {#launching}
+# Launching the Application {#launchingTheApplication}
 
 ## App permissions {#appPermissions}
 
