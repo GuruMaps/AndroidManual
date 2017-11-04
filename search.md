@@ -6,7 +6,7 @@ Search results will be displayed on the map and in the list. Results are limited
 Tap an any of the results in the list to open its entry. To reset search results, tap the clear icon ![](/assets/icon_cross.png).  
 If there are search results, the search icon will be changed to the ![](/assets/icon_search_results.png).
 
-### Offline Search
+### Offline Search {#offlineSearch}
 
 Performing an offline search in the following ways allows you to search places quick and easy:
 

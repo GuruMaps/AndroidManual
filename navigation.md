@@ -1,5 +1,5 @@
 ## Navigation
 
-### Routing mode
+### Routing mode {#routingMode}
 
-### Navigation mode
+### Navigation mode {#navigationMode}
