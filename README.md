@@ -2,9 +2,14 @@
 
 ## What is Galileo Offline Maps? {#whatIsGalileoOffllineMaps}
 
-[Galileo Offline Maps](https://galileo-app.com) is an app for travelers, which allows you to navigate and [search](02-features.md#search) around the world offline. Also you can create bookmarks and record tracks, which will be stored to [Collections](02-features.md#collections). You will never loose your collections considering [backup](03-settings.md#dataBackup) and synchronization features. [Navigation](03-settings.md#navigation) will provide you with complete road instructions and voice guidance.
+[Galileo Offline Maps](https://galileo-app.com) is is a handy travel solution for offline browsing and [searching](02-features.md#search) the up-to-date map wherever you go. [Mark the places](02-features.md#bookmarks) and [record your trips](02-features.md#GPSTracks) easily in one tap and [organize your geodata into collections](02-features.md#collections) to easily access them later.
+
+If you use more than one iOS/Android device, Galileo app will securely [sync all your data across multiple devices](03-settings.md#sync) and there is also [backup feature](03-settings.md#dataBackup) to make a copy of your information.
+
+Use your device to [find the fastest routes](03-settings.md#navigation) between multiple stops and get turn-by-turn directions with voice guidance.
 
 ## About This Manual {#aboutThisManual}
 
-This user manual is designed to help you get started as quickly as possible by introducing you to Galileo Offline Maps’ main features. For a quick start guide, please refer to the introduction tour, which is available within the app from the Help menu.  
-Feel free to ask for further assistance or to report any problems you find at [info@galileo-app.com](mailto:info@galileo-app.com) or choose Contact Support option directly within the app settings.
+This user manual is designed to help you get started as quickly as possible by introducing you to Galileo Offline Maps main features. For a quick start guide, please refer to the introduction tour, which is available within the app from the Help menu.
+
+Feel free to ask for further assistance or to report any problems you find at info@galileo-app.com or choose [Contact Support]() option directly within the app settings.
