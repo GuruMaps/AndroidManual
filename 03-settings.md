@@ -42,6 +42,18 @@ Vector maps are available and free for download within the app:
  
 ![](/assets/)
 
+To **download a map of the selected country** tap the ![](/assets/) button next to the country name in Available Maps list.
+To **pause a download**, tap the cell with the country name tap it again to resume a download,
+To **go to downloaded map** tap the  button,
+to **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the Edit button.
+
+As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for downloaded map, you will see Update button near the downloaded map name:
+
+![](/assets/)
+
+
+
+
 ### Font and Languages {#fontsAndLanguages}
 
 You can configure Galileo to display all text on a vector map at a comfortable font size. To increase, decrease, or change the default font size, go to app Settings &gt; Font and Languages.
