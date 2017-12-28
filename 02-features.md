@@ -204,26 +204,27 @@ Tap the **REC** button on the screen with the map. It will change dot color from
 * ![](/assets/icon_rec_disabled.png) — track is not recording,
 * ![](/assets/icon_rec_enabled.png) — track is recording now.
 
-**Tip**: while a GPS track is being recorded, notification appear in notification bar:
+**Tip**: while a GPS track is being recorded, notification appear in status bar:
 
 ![](/assets/track_ercording_notification.png)
 
 **Note**: to record GPS tracks in background, make sure you have disabled Battery Saver in device settings.
 
-**Manage track details**. Tap the ![](/assets/icon_info.png) button next to the track name to:
+To **view track details** tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the My Collections list.
 
-* Edit track name and description. Tap the name or description field and use the onscreen keyboard to type a new text.
-* Move a track to another collection. Tap the field with the collection name and select the new name from the list of available collections, then tap Back.
-* Change the track style. Tap the desired color or set the track color change based on speed or altitude.
+To **edit track name and description** tap the name or description field and use the onscreen keyboard to type a new text.
 
-**View the track on the map**. Tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
+To **move a track to another collection** tap the field with the collection name and select the new name from the list of available collections, then tap Back.
 
-**Delete a track**. Scroll down the track details screen and click the Delete button.  
-**Export a track**. Tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your track.
+To **change track style** tap the desired color or set the track color based on speed or altitude.
 
-Read more: [Exporting Geodata](exporting-geodata.md).
+To **view track on the map** tap ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
 
-Tip: The best way to export several GPS tracks at once is to save them in one collection and export the collection.
+To **hide a track from the map** scroll down the track details screen and tap ![](/assets/) icon. To reveal it tap ![](/assets/) icon.
+
+To **export a track** tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your data.
+
+To **delete a track** tap the ![](/assets/) icon at the bottom of the track details screen.
 
 ## Collections {#collections}
 
@@ -231,51 +232,45 @@ Collections are groups of bookmarks and GPS tracks, like folders on your desktop
 
 ### My Collections List
 
+To open My Collections list, tap the ![](/assets/) icon on the map. 
+
+To create new collection, tap the ![](/assets/) button at the bottom of the My Collections list. Enter details, then tap OK.
+
 ![](/assets/my_collections.png)
 
-**Sort data in the list**. You can easily sort collections and its content by date created, distance and file name in the list:
+To view a set of bookmarks and GPS track within the collection, tap the collection name in list. 
 
+You can easily sort collections and its content by date created, distance and file name in the list:
+				 							
 * Recent — the most recently created items go first,
 * Nearest — collections, containing locations that are the closest to your current location, are listed at the top,
 * A-Z — items are sorted in alphabetical order.
+												
+To **search in the list** tap the search field to reveal the onscreen keyboard and start typing. The list will dynamically display collections containing items that match your search criteria as you type.
+			 						 				
+To **delete from the list** swipe left your finger horizontally across the collection, bookmark or track name you want to delete in My Collections list, then tap the Delete icon.
 
-**Search in the list**. Tap the search field to reveal the onscreen keyboard and start typing. The list will dynamically display collections containing items that match your search criteria as you type.
+To **show/hide item** tap the ![](/assets/) icon to hide the track or bookmark from the map. Tap the ![](/assets/) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
 
-**Delete in the list**. Swipe your finger horizontally across the collection, bookmark or track name you want to delete in My Collections list, then tap the Delete button.
+![](/assets/)
 
-**Show/hide item from list**. Swipe the item to the right in My Collections list Swipe the item to the right, the text font color changes from black to gray: black – for visible, gray – for hidden items. Tap again to show the track or bookmark on the map.
-
-![](/assets/inactive_collections_item.png)
-
-**Edit mode**. Tap and hold on any element or tap the “Edit button” in toolbar menu to activate Edit mode.
+Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
 ![](/assets/collelctions_edit_mode.png)
 
-In Edit mode you can to delete multiple selected elements or move them to other collection \(Consider that collections also can be moved into collections\).
 
 ## Collections Details
 
-**Create new collection**. You might want to create new collections for an individual trip, country, city or certain set of POIs. To add a new collection tap the **+** floating button. Enter collection details, then tap OK.  
-**Manage collection details**. Tap the ![](/assets/icon_info.png) button next to the collection name to:
+To **view collection details** tap ![](/assets/icon_info.png) icon next to the name in the My Collections list.
 
-* Edit collection name and description. Tap the name or description field and use the onscreen keyboard to type a new text.
-* Set a collection as default. Tap the Default Collection switch to ON to save newly added bookmarks and GPS tracks to this collection.
+To **edit collection name and description** tap the name or description field and use the onscreen keyboard to type a new text.
 
-**Show & hide the collection from map**. To keep maps uncluttered and easy to use, you may choose what to show on the map at any given moment. To hide or show a whole collection at once \(in addition to being able to show or hide each individual item in list\), go to the collection details screen and tap ![](/assets/icon_hide.png) button.
+To **set a collection as default** tap the Default Collection switch to ON to save newly added bookmarks and GPS tracks to this collection.
 
-**View the collection on the map**. Tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected collection.
+To **select a parent collection** in which this current collection is cataloged, tap My Collections cell.
 
-**Delete a collection**. Scroll down the collection details screen and click the Delete button.
+To **view collection on the map** tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected collection.
 
-**Export a collection**. Tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to save your data.  
-Read more : Exporting Geodata.
+To **show & hide** collection from map, scroll down the collection details screen and tap the ![](/assets/) icon. To reveal it tap ![](/assets/) icon.
 
-
-
-
-
-
-
-### Routing mode {#routingMode}
-
-### Navigation mode {#navigationMode}
+To **Export a collection** tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.  
