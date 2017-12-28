@@ -40,7 +40,7 @@ This section describes the vector maps related settings within the app.
 
 Vector maps are available and free for download within the app:
  
-
+![](/assets/)
 
 ### Font and Languages {#fontsAndLanguages}
 
