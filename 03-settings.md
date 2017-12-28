@@ -1,27 +1,46 @@
 # Settings
 
-> Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as optional and more advanced way of using the app. Settings lets you configure app options, purchase additional features and manage geo data.
+> Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as optional and more advanced way of using the app. Settings lets you configure app options, purchase additional features and manage geo data representation.
 
-## Vector Maps Settings {#vectorMapsSettings}
+## Map Sources {#MapSources}
+
+To switch to another map to display, select **Map Source** menu in app settings. There are two types of maps you can use within the app: offline and online maps.
+
+### Offline maps
+						
+Vector map source is set by default. Once you’ve downloaded it (**internet connection required**), it will be available offline.
+Vector maps are detailed, smooth, fast and provide high quality image rendered in real time on the device. It takes up less storage space than raster maps.
+
+**Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection.
+
+	 						 						
+### Online maps
+						
+There is a list of built-in raster map sources available online:
+				 						
+* HikeBikeMap
+* Humanitarian OSM
+* OpenBusMap
+* OpenCycleMap
+* OpenStreetMap
+* Stamen – Terrain (USA only)
+* Stamen – Toner
+						 						
+Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in while you have access to the Internet.
+						 						
+**Note**: map download speed can vary while using an online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
+
+In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains description of map provider.
+
+## Vector Maps Settings
 
 This section describes the vector maps related settings within the app.
 
-### Download Maps {#downloadMaps}
+### Download Maps
 
-Vector maps by countries are available and free for download within the app:
+Vector maps are available and free for download within the app:
+ 
 
-![](/assets/download_maps.png)
-
-* to download the map of the selected country, tap the ![](/assets/icon_download_map.png) button next to the country name in Available Maps list,
-* to pause a download, tap the cell with the country name, tap it again to resume a download,
-* to go to the downloaded map, tap the ![](/assets/icon_show_on_map.png) button,
-* to remove the map, swipe your finger across the country name from right to left, then tap the Delete button, or use the Edit button.
-
-As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for downloaded map, you will see Update button near the downloaded map name.
-
-![](/assets/update_downloaded_map.png)
-
-To update all your downloaded maps, tap the “Update all” button in toolbar menu.
 
 ### Font and Languages {#fontsAndLanguages}
 
