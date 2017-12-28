@@ -12,4 +12,7 @@ Use your device to [find the fastest routes](03-settings.md#navigation) between 
 
 This user manual is designed to help you get started as quickly as possible by introducing you to Galileo Offline Maps main features. For a quick start guide, please refer to the introduction tour, which is available within the app from the Help menu.
 
-Feel free to ask for further assistance or to report any problems you find at info@galileo-app.com or choose [Contact Support]() option directly within the app settings.
+Feel free to ask for further assistance or to report any problems you find at **info@galileo-app.com** or choose Contact Support option directly within the app settings.
+
+
+
