@@ -1,6 +1,6 @@
 # Tips and Tricks and Troubleshooting
 
-> In this section, we will go over some of advanced features as they pertain to specific areas of the using the app.
+> In this section we will go over some of advanced features as they pertain to specific areas of using an app.
 
 ## Custom Map Sources {#customMapSources}
 
@@ -62,21 +62,28 @@ The most important tags of this definition are described below:
 * &lt;retina&gt;1&lt;/retina&gt; – for 512х512 px \(e.g. Google Maps HD\),
 * &lt;retina&gt;2&lt;/retina&gt; – for 256х256 px \(e.g. CloudMade HD\).
 
-**How to add**. There are several ways to add custom online map source to the app:
+#### How to add
+
+There are several ways to add custom online map source to the app:
 1. Place the XML file in the app shared folder in iTunes.
 2. Open the XML file attached in Email on your device using the "Open in Galileo" option.
 3. Open the XML file from Dropbox on your device using the "Open in.." option.
 	
 As a result, the new map source will appear in Map Source list.
 
-**Troubleshooting**. Sometimes you can see empty map areas (tiles), with the following warning messages on the map:
-* "_Tile loading error_. Please check your Internet connection" – this appears when tiles are missing in the cache and app can't download them. Enable an Internet connection or go to ’online’ mode to load the missing tiles.
-* "_Tile loading error_. Wrong response from the server" – the online server is not responding. Try to navigate to this area later to reload any missing tiles.
+#### Troubleshooting
+
+Sometimes you can see empty map areas (tiles), with the following warning messages on the map:
+* "Tile loading error. Please check your Internet connection" – this appears when tiles are missing in the cache and app can't download them. Enable an Internet connection or go to ’online’ mode to load the missing tiles.
+* "Tile loading error. Wrong response from the server" – the online server is not responding. Try to navigate to this area later to reload any missing tiles.
 
 ## Offline Maps Import {#offlineMapsImport}
 
 Feature, available as an in-app purchase, allows you to import previously created custom offline maps in .sqlitedb or .mbtiles format.
-**Creating an offline map**. The main idea is to create an offline map for the desired area in advance with one of the following tools on your computer using one of the following tools:
+
+#### Creating an offline map
+
+The main idea is to create an offline map for the desired area in advance with one of the following tools on your computer using one of the following tools:
 
 * [Mobile Atlas Creator](http://mobac.sourceforge.net/) (known also as MOBAC)
 * [TileMill](https://tilemill-project.github.io/tilemill/)
@@ -92,17 +99,26 @@ Reference: to learn how to create offline maps in **.mbtiles** format, please re
 					
 SAS.Planet – is a program designed for viewing and downloading high-resolution satellite imagery and conventional maps in .sqlitedb format.
 Reference: to learn how to create offline maps in **.sqlitedb** format, please refer to the [SAS.Planet manual](http://www.sasgis.org/wikisasiya/doku.php).
-**Importing offline maps**. Once you have created an offline map, you should upload it to your device. There are two ways to import an offline map into your device: via iTunes or Dropbox.
 
-**Using offline maps**. Go to Map Source in app settings and select the imported map name in the list and back to the map view. If you are not over the area with offline map, tap the green arrow indicating the direction to the offline map. Zoom in to see a detailed view of your offline map.
+#### Importing offline maps
+
+Once you have created an offline map, you should upload it to your device. There are two ways to import an offline map into your device: via iTunes or Dropbox.
+
+#### Using offline maps
+
+Go to Map Source in app settings and select the imported map name in the list and back to the map view. If you are not over the area with offline map, tap the green arrow indicating the direction to the offline map. Zoom in to see a detailed view of your offline map.
 						
-**Troubleshooting**. Sometimes you can see empty map areas, with the following warning messages on the map:
+#### Troubleshooting
+
+Sometimes you can see empty map areas, with the following warning messages on the map:
 						
-"_Tile is not in your offline map. Please add more layers._" – this means that there are no map tiles on the current zoom level in your offline map. You have probably imported insufficiently detailed levels, so when you zoom in there are no downloaded tiles for that level.
+"Tile is not in your offline map. Please add more layers." – this means that there are no map tiles on the current zoom level in your offline map. You have probably imported insufficiently detailed levels, so when you zoom in there are no downloaded tiles for that level.
 
 ## MIUI users troubleshooting {#MIUI}
 
-**Xiaomi and other MIUI phones issue**. MIUI by default doesn’t let apps in the background access GPS, which is what causes this issue.
+#### Xiaomi and other MIUI phones issue
+
+MIUI by default doesn’t let apps in the background access GPS, which is what causes this issue.
 
 Here’s what you need to do to solve the problem:
 
