@@ -274,8 +274,8 @@ In Galileo Offline Maps you can choose to represent your coordinates in any way 
 
 ## Help {#Help}
 
-#### Introduction Tour
 
 #### Contact Us
 
+If you have faced a problem - here you can contact Support via email.
 
