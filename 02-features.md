@@ -10,7 +10,7 @@ Search results will be displayed on the map and in the list below the search fie
 Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed on the visible area.
 To reset search results, tap the clear icon ![](/assets/icon_cross.png).  If there are search results, the search icon will be changed to ![](/assets/icon_search_results.png).
 
-**Note**: You can use your voice to perform search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon to start dictating. When you’re finished, wait for your words to be processed. It can take a few seconds for text to appear.
+**Note**: You can use your voice to perform search instead of typing wedihen you're connected to the Internet. Just tap the search field, and then tap the microphone icon to start dictating. When you’re finished, wait for your words to be processed. It can take a few seconds for text to appear.
 
 Search screen is separated in three parts:  
 * Categories  
@@ -64,7 +64,7 @@ Galileo Offline Maps gives you the ability to find the best route and get step b
 
 ### Create route
 
-To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/) icon from the pop up menu.
+To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop up menu.
 
 Alternatively: 
 * you can tap  icon on the bottom line of the bookmark/POI/search results details screen
@@ -75,33 +75,33 @@ A map will appear with your driving route highlighted in blue with some route in
 * Arrival time
 * Time to go
 
-![](/assets/)
+![](/assets/route_set_3.png)
 
 Route will be shown for a **drive mode** by default, but you may have to switch it to the appropriate one for your needs:
 
-![](/assets/)
+![](/assets/route_set_2.png)
 
-To begin navigation, tap ![](/assets/) icon. 
-To stop your route, tap ![](/assets/) icon, then Stop movement option from menu.
+To begin navigation, tap ![](/assets/play_icon.png) icon. 
+To stop your route, tap ![](/assets/pause_button.png) icon, then Stop movement option from menu.
 If you miss a turn or intentionally go the wrong way from the planned route, the app will automatically recalculate the route (**internet connection required**).
 
 ### Edit route
 
-To edit your route, tap ![](/assets/) icon, then **Edit route** option from menu. There is possible to add additional stops along the way by long tap on the map:
+To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. There is possible to add additional stops along the way by long tap on the map:
 
-![](/assets/)
+![](/assets/transit_point_menu.png)
 
 These signs will appear on the map along your route:
 
-![](/assets/) — for transit points, ![](/assets/) — for stop points.
+![](/assets/transit_point.png) — for transit points, ![](/assets/stop_point.png) — for stop points.
 
 To edit or delete the waypoint, just tap it on the map to bring up the pop-up menu:
 
-![](/assets/)
+![](/assets/transit_point_popup.png)
 
 ### Voice directions
 
-When you’re navigating to a place, you can hear voice directions. You can stop receiving directions at any time while in navigation mode by tapping sound icon ![](/assets/)
+When you’re navigating to a place, you can hear voice directions. You can stop receiving directions at any time while in navigation mode by tapping sound icon ![](/assets/sound_icon.png)
 
 **Tip**: long tap on sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the driving directions in the app Settings > Navigation.
 
@@ -163,7 +163,7 @@ Tap the bookmark icon on the map. Tap it again to hide it:
 
 To **move the bookmark** tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.	
 
-To **view bookmark details** tap the ![](/assets/) button next to the bookmark name on the map or open it from the My Collections list.
+To **view bookmark details** tap the ![](/assets/icon_info.png) button next to the bookmark name on the map or open it from the My Collections list.
 
 To **edit bookmark name and description** tap the name or description field and use the onscreen keyboard to type a new text.
 
