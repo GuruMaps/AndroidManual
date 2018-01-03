@@ -40,7 +40,7 @@ This section describes the vector maps related settings within the app.
 
 Vector maps are available and free for download within the app:
  
-![](/assets/)
+![](/assets/download_maps.png)
 
 To **download a map of the selected country** tap the ![](/assets/) button next to the country name in Available Maps list.
 To **pause a download**, tap the cell with the country name tap it again to resume a download,

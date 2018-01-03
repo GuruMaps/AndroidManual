@@ -245,7 +245,9 @@ To **search in the list** tap the search field to reveal the onscreen keyboard a
 			 						 				
 To **delete from the list** swipe left your finger horizontally across the collection, bookmark or track name you want to delete in My Collections list, then tap the Delete icon.
 
-To **show/hide item** tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items.
+To **show/hide item** tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
+
+![](/assets/inactive_collections_item.png)
 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
