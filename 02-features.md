@@ -163,7 +163,7 @@ Tap the bookmark icon on the map. Tap it again to hide it:
 
 To **move the bookmark** tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.	
 
-To **view bookmark details** tap the ![](/assets/icon_info.png) button next to the bookmark name on the map or open it from the My Collections list.
+To **view bookmark details** tap the popup with ![](/assets/icon_info.png) button next to the bookmark name on the map or open it from the My Collections list.
 
 To **edit bookmark name and description** tap the name or description field and use the onscreen keyboard to type a new text.
 
@@ -173,25 +173,20 @@ To **move a bookmark to another collection** tap the field with the collection n
 
 To **copy coordinates**, tap the icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
 
-* Copy as text — coordinates will be copied to the clipboard in the format as you see it (+9.570674, +100.060448).
-* Copy as URL — coordinates will be copied as URL, containing geolocation information (latitude, longitude, zoom level) of selected bookmark to quick share it by Email or SMS (galileo://9.570674,100.060446,16.0). Tap this URL from the email or message on your device to view the location on the map within the Galileo Offline Maps:
-
-![](/assets/)
-
 To **edit coordinates**, tap the coordinates to start edit (X ,Y) GPS coordinates. 
 
 To **show the direction to the bookmark**, tap the Bearing Line switch option to ON:
 
-![](/assets/)
+![](/assets/bearing_line.png)
 
 **Note**: The bearing line to only one bookmark can be displayed on the map at any given moment.
 
 To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected bookmark.
 
-To **hide the bookmark** from the map, scroll down the bookmark details screen and tap ![](/assets/) icon. To reveal it again, tap ![](/assets/) icon.
-To create a route to this bookmark, tap ![](/assets/) icon. 
+To **hide the bookmark** from the map, scroll down the bookmark details screen and tap  ![](/assets/icon_hide.png) icon. To reveal it again, tap ![](/assets/icon_show.png) icon.
+To create a route to this bookmark, tap ![](/assets/icon_routing_blue.png) icon. 
 
-To **delete a bookmark**, tap ![](/assets/) icon at the bottom of the bookmark details screen.
+To **delete a bookmark**, tap ![](/assets/icon_trash.png) icon at the bottom of the bookmark details screen.
 
 ## GPS Tracks {#GPSTracks}
 
@@ -220,11 +215,11 @@ To **change track style** tap the desired color or set the track color based on 
 
 To **view track on the map** tap ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
 
-To **hide a track from the map** scroll down the track details screen and tap ![](/assets/) icon. To reveal it tap ![](/assets/) icon.
+To **hide a track from the map** scroll down the track details screen and tap ![](/assets/icon_hide.png) icon. To reveal it tap ![](/assets/icon_show.png) icon.
 
 To **export a track** tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your data.
 
-To **delete a track** tap the ![](/assets/) icon at the bottom of the track details screen.
+To **delete a track** tap the ![](/assets/icon_trash.png) icon at the bottom of the track details screen.
 
 ## Collections {#collections}
 
@@ -232,9 +227,9 @@ Collections are groups of bookmarks and GPS tracks, like folders on your desktop
 
 ### My Collections List
 
-To open My Collections list, tap the ![](/assets/) icon on the map. 
+To open My Collections list, tap the ![](/assets/icon_my_collections.png) icon on the map. 
 
-To create new collection, tap the ![](/assets/) button at the bottom of the My Collections list. Enter details, then tap OK.
+To create new collection, tap the + button at the bottom of the My Collections list. Enter details, then tap OK.
 
 ![](/assets/my_collections.png)
 
@@ -250,9 +245,7 @@ To **search in the list** tap the search field to reveal the onscreen keyboard a
 			 						 				
 To **delete from the list** swipe left your finger horizontally across the collection, bookmark or track name you want to delete in My Collections list, then tap the Delete icon.
 
-To **show/hide item** tap the ![](/assets/) icon to hide the track or bookmark from the map. Tap the ![](/assets/) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
-
-![](/assets/)
+To **show/hide item** tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items.
 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
@@ -271,6 +264,6 @@ To **select a parent collection** in which this current collection is cataloged,
 
 To **view collection on the map** tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected collection.
 
-To **show & hide** collection from map, scroll down the collection details screen and tap the ![](/assets/) icon. To reveal it tap ![](/assets/) icon.
+To **show & hide** collection from map, scroll down the collection details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it tap ![](/assets/icon_show.png) icon.
 
 To **Export a collection** tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.  
