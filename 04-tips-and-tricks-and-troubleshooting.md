@@ -10,7 +10,7 @@ In addition to built-in online raster maps, Galileo Offline Maps also supports c
 
 The following example shows how the XML file for OpenStreetMap source may be defined:
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <customMapSource>
 <name>OpenStreetMap</name>
@@ -23,9 +23,8 @@ The following example shows how the XML file for OpenStreetMap source may be def
 
 Map sources which consist of two or more layers can be defined, similar to single-layer custom map sources. The following example shows how the XML file for OpenSeaMap hybrid source may be defined:
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <customMapSource>
 <name>OpenSeaMap</name>
 <minZoom>0</minZoom>
