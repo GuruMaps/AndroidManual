@@ -62,6 +62,8 @@ Galileo Offline Maps gives you the ability to find the best route and get step b
 
 **Note**: building a route requires internet connection
 
+![](/assets/2018-01-05 11.40.19.jpg)
+
 ### Create route
 
 To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop up menu.
@@ -75,11 +77,7 @@ A map will appear with your driving route highlighted in blue with some route in
 * Arrival time
 * Time to go
 
-![](/assets/route_set_3.png)
-
 Route will be shown for a **drive mode** by default, but you may have to switch it to the appropriate one for your needs:
-
-![](/assets/route_set_2.png)
 
 To begin navigation, tap ![](/assets/play_icon.png) icon. 
 To stop your route, tap ![](/assets/pause_button.png) icon, then Stop movement option from menu.
