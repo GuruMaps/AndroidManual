@@ -29,7 +29,7 @@ If you use Galileo feature, that require permission to read/write on your device
 
 ![](/assets/read_write_permission.png)
 
-# Download a Map
+## Download a Map {#DownloadAMap}
 
 When you allow the app to use your location, the app will ask you to download the map for your region when launching the app for the first time.
 
@@ -56,13 +56,13 @@ Tap the map and hold to bring up the pop-up with available options \(from left t
 To [measure the distance](02-features.md#measuringDistance) between two points as the crow flies, tap your starting and destination points with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed.  
 ![](/assets/measuring_distance.png)
 
-# Interface Overview {#interfaceOverview}
+## Interface Overview {#interfaceOverview}
 
 > This section will provide you information about basic usage and interactions in Galileo.
 
-## Application Modes {#applicationModes}
+### Application Modes {#applicationModes}
 
-### Location button {#locationButton}
+#### Location button {#locationButton}
 
 The app works in multiple modes depending on number of taps on _Location_ button with the following sign ![](/assets/icon_gps.png). Your position is shown on the map as a blue marker when you are staying and as a blue arrow when you are moving:
 
@@ -70,7 +70,7 @@ The app works in multiple modes depending on number of taps on _Location_ button
 
 Tip: if your location cannot be determined precisely, a blue circle also appears around the location marker. The size of the circle depends on how accurately your location can be determined: the smaller the circle – the greater the accuracy.
 
-### Tracking mode {#trackingMode}
+#### Tracking mode {#trackingMode}
 
 To determine your current approximate location on the map and enable the **tracking mode**, tap once the _Location_ button:
 
@@ -78,7 +78,7 @@ To determine your current approximate location on the map and enable the **track
 
 Once tracking mode is active, app tracks your position on map as you move. To exit the tracking mode, move the map.
 
-### Driving mode {#drivingMode}
+#### Driving mode {#drivingMode}
 
 To enable the **driving mode**, double tap the _Location_ button:
 
@@ -88,7 +88,7 @@ While in driving mode, the app will orient the map in the direction you are curr
 
 Note: the accuracy of the compass can be affected by magnetic or environmental interference \(e.g. the magnets in earbuds\) and compass may need to be calibrated from time to time. When the device displays the calibration alert, tilt the screen to move the red ball around in a circle.
 
-### Location services {#locationServices}
+#### Location services {#locationServices}
 
 Every time you see this icon ![](/assets/icon_question.png), it means that your GPS currently cannot get information about your location. It may also appear when Location Services is disabled on your device.
 
