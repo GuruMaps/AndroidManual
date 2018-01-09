@@ -46,7 +46,7 @@ If you know the exact coordinates of a location, you can simply enter them into 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
 
 
-### Offline Search {#offlineSearch}
+#### Offline Search {#offlineSearch}
 
 Performing an offline search in the following ways allows you to search places quick and easy:
 
@@ -252,7 +252,7 @@ Tap and hold any element or tap the Edit button to delete selected elements or m
 ![](/assets/collelctions_edit_mode.png)
 
 
-## Collections Details
+### Collections Details
 
 To **view collection details** tap ![](/assets/icon_info.png) icon next to the name in the My Collections list.
 
