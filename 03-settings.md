@@ -2,7 +2,7 @@
 
 > Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as optional and more advanced way of using the app. Settings lets you configure app options, purchase additional features and manage geo data representation.
 
-## Map Sources {#MapSources}
+## Map Source {#MapSource}
 
 To switch to another map to display, select **Map Source** menu in app settings. There are two types of maps you can use within the app: offline and online maps.
 
@@ -32,7 +32,7 @@ Caching is always enabled – the app saves all recently viewed map images in yo
 
 In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains description of map provider.
 
-## Vector Maps Settings
+## Vector Maps Settings {#vectorMapsSettings}
 
 This section describes the vector maps related settings within the app.
 
@@ -280,5 +280,5 @@ In Galileo Offline Maps you can choose to represent your coordinates in any way 
 
 #### Contact Us
 
-If you have faced a problem - here you can contact Support via email.
+If you have faced a problem - here you can contact Support via email (**internet connection required**).
 
