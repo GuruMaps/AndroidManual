@@ -17,6 +17,8 @@ Search screen is separated in three parts:
 * Search history  
 * Nearest bookmarks
 
+**Note**: offline search is possible within the downloaded offline maps and only places which are mapped at OpenStreetMap.org could be found.
+
 ![](/assets/search_1.png)
 
 #### Search by category
