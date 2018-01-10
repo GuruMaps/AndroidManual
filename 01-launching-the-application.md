@@ -48,9 +48,11 @@ Tip: to zoom in/out with only one finger, double-tap the map, hold the second ta
 To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](02-settings.md#showZoomButtons) to enable them. 
 
 Tap the map and hold to bring up the pop-up with available options \(from left to right\):  
+
 1. Bookmark this location  
 2. Mark your current location  
 3. Get route directions to this location  
+
 ![](/assets/map_popup.png)
 
 To [measure the distance](02-features.md#measuringDistance) between two points as the crow flies, tap your starting and destination points with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed.  
