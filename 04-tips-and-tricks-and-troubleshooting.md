@@ -64,7 +64,7 @@ The most important tags of this definition are described below:
 #### How to add
 
 There are several ways to add custom online map source to the app:
-1. Place the XML file in the app shared folder in iTunes.
+1. Place the XML file in the app shared folder.
 2. Open the XML file attached in Email on your device using the "Open in Galileo" option.
 3. Open the XML file from Dropbox on your device using the "Open in.." option.
 	
@@ -101,7 +101,7 @@ Reference: to learn how to create offline maps in **.sqlitedb** format, please r
 
 #### Importing offline maps
 
-Once you have created an offline map, you should upload it to your device. There are two ways to import an offline map into your device: via iTunes or Dropbox.
+Once you have created an offline map, you should upload it to your device.
 
 #### Using offline maps
 
