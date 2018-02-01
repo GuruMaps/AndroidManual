@@ -1,6 +1,6 @@
  # Settings
 
-> Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as optional and more advanced way of using the app. Settings lets you configure app options, purchase additional features and manage geo data representation.
+> Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as an optional and more advanced way of using the app. Settings let you configure app options, purchase additional features and manage geo data representation.
 
 ## Map Source {#MapSource}
 
@@ -9,9 +9,9 @@ To switch to another map to display, select **Map Source** menu in app settings.
 ### Offline maps
 						
 Vector map source is set by default. Once you’ve downloaded it (**internet connection required**), it will be available offline.
-Vector maps are detailed, smooth, fast and provide high quality image rendered in real time on the device. It takes up less storage space than raster maps.
+Vector maps are detailed, smooth, fast and provide high-quality image rendered in real time on the device. It takes up less storage space than raster maps.
 
-**Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection.
+**Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on a computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection.
 
 	 						 						
 ### Online maps
@@ -28,9 +28,9 @@ There is a list of built-in raster map sources available online:
 						 						
 Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in while you have access to the Internet.
 						 						
-**Note**: map download speed can vary while using an online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
+**Note**: map download speed can vary while using online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
 
-In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains description of map provider.
+In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains a description of map provider.
 
 ## Vector Maps Settings {#vectorMapsSettings}
 
@@ -50,7 +50,7 @@ To **pause a download**, tap the cell with the country name tap it again to resu
 To **go to downloaded map** tap the  button,
 to **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the Edit button.
 
-As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for downloaded map, you will see Update button near the downloaded map name:
+As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for a downloaded map, you will see Update button near the downloaded map name:
 
 ![](/assets/update_downloaded_map.png)
 
@@ -67,7 +67,7 @@ You can configure Galileo to display all text on a vector map at a comfortable f
 
 #### Preferred language order
 
-In some regions objects on the map in addition to local names have names in other languages. Map will show the names on the first language in this list if exists. It may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
+In some regions, objects on the map in addition to local names have names in other languages. A map will show the names on the first language in this list if exists. It may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
 
 
 ![](/assets/fonts_and_language.png)
@@ -118,7 +118,7 @@ To make visible zoom control buttons on the map, turn this option on. If enabled
 
 ### Show Bookmark Name
 
-To make visible bookmark name on the map, turn this option on. If enabled, bookmark will change its view and the name of bookmark will appear:
+To make visible bookmark name on the map, turn this option on. If enabled, a bookmark will change its view and the name of a bookmark will appear:
 
 ![](/assets/setting_show_bookmark_name.png)
 
@@ -191,7 +191,7 @@ When the backup finished successfully, you'll see the name of the device along w
 
 #### Save backup
 
-Backups are stored on your device and will be removed automatically when the app is removed. To prevent data loss, we recommend to save your backups regularly.
+Backups are stored on your device and will be removed automatically when the app is removed. To prevent data loss, we recommend saving your backups regularly.
 
 You can use cloud services (Dropbox, OneDrive, Adobe Creative Cloud, Google Drive, etc) to save them.
 
@@ -199,7 +199,7 @@ You can use cloud services (Dropbox, OneDrive, Adobe Creative Cloud, Google Driv
 
 #### Restore from a backup
 
-There are several ways to restore your data from backup:
+There are several ways to restore your data from a backup:
 
 * Select .gbackup file from any file manager installed and choose Galileo:
 
@@ -209,7 +209,7 @@ There are several ways to restore your data from backup:
 
 ![](/assets/open_backup_dropbox.png)
 
-* Move .gbackup file to Internal Storage &gt; Galileo\_backups folder. All .gbackup files from this directory will be listed in Galileo. Go to Settings &gt; Data Backup and tap prefered backup.
+* Move .gbackup file to Internal Storage &gt; Galileo\_backups folder. All .gbackup files from this directory will be listed in Galileo. Go to Settings &gt; Data Backup and tap preferred backup.
 
 **Note**: restoring from backup will remove all current bookmarks and GPS tracks in My Collections.
 
@@ -228,7 +228,7 @@ All loaded map tiles will be automatically saved to your device's storage and ca
 
 ### Maps Storage {#mapsStorage}
 
-If your device supporting SD Card memory extension and one of your storages become insufficient you can change default Map Download Storage in Settings &gt; Maps Storage. After selection one of the available storages all downloaded Maps will be moved to selected one. Maps will be downloaded on the storage with the largest amount of free space by default. If you don’t see Maps Storage Settings your device might not support SD Card memory extension or SD Card is not present.
+If your device supporting SD Card memory extension and one of your storages become insufficient you can change default Map Download Storage in Settings &gt; Maps Storage. After selecting one of the available storages all downloaded Maps will be moved to selected one. Maps will be downloaded on the storage with the largest amount of free space by default. If you don’t see Maps Storage Settings your device might not support SD Card memory extension or SD Card is not present.
 
 ![](/assets/maps_storage.png)
 
@@ -242,11 +242,11 @@ Filter by the minimum accuracy at which the new points will be accepted. New poi
 
 ![](/assets/accuracy_threshold.png)
 
-**Example**: You are recording your GPS track while walking around your neighbourhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to set the required accuracy and ignore inaccurate GPS data. If the received signal has lower than the required accuracy, that point will not be recorded in the track.
+**Example**: You are recording your GPS track while walking around your neighborhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to set the required accuracy and ignore inaccurate GPS data. If the received signal has lower than the required accuracy, that point will not be recorded in the track.
 
 #### Distance Threshold
 
-Filter by the minimum distance travelled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected (recommended value is 5 m).
+Filter by the minimum distance traveled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected (recommended value is 5 m).
 
 ![](/assets/distance_threshold.png)
 

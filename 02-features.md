@@ -7,12 +7,12 @@ In this article we will show some distinguishing features, that will make your G
 The app lets you search within [My Collections](02-features.md#collections) content as well as map OpenStreetMap.org data.  
 To open the search screen, tap the ![](/assets/icon_serach.png) search button. Type or paste the word you want to find in the search field.  
 Search results will be displayed on the map and in the list below the search field. It is also possible to narrow down your search using the “Search around me” option at the bottom.  
-Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed on the visible area.
+Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed in the visible area.
 To reset search results, tap the clear icon ![](/assets/icon_cross.png).  If there are search results, the search icon will be changed to ![](/assets/icon_search_results.png).
 
-**Note**: You can use your voice to perform search instead of typing wedihen you're connected to the Internet. Just tap the search field, and then tap the microphone icon to start dictating. When you’re finished, wait for your words to be processed. It can take a few seconds for text to appear.
+**Note**: You can use your voice to perform a search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon to start dictating. When you’re finished, wait for your words to be processed. It can take a few seconds for text to appear.
 
-Search screen is separated in three parts:  
+The search screen is separated into three parts:  
 * Categories  
 * Search history  
 * Nearest bookmarks
@@ -58,21 +58,21 @@ Galileo Offline Maps gives you the ability to find the best route and get step b
 
 ### Create route
 
-To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop up menu.
+To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop-up menu.
 
 Alternatively: 
 * you can tap  icon on the bottom line of the bookmark/POI/search results details screen
-* swipe right on bookmark in My Collections or search results list, then tap.
+* swipe right on a bookmark in My Collections or search results list, then tap.
 
 A map will appear with your driving route highlighted in blue with some route information at the bottom:
 * Distance to go
 * Arrival time
 * Time to go
 
-Route will be shown for a **drive mode** by default, but you may have to switch it to the appropriate one for your needs:
+The route will be shown for a **drive mode** by default, but you may have to switch it to the appropriate one for your needs:
 
 To begin navigation, tap ![](/assets/play_icon.png) icon. 
-To stop your route, tap ![](/assets/pause_button.png) icon, then Stop movement option from menu.
+To stop your route, tap ![](/assets/pause_button.png) icon, then Stop movement option from a menu.
 If you miss a turn or intentionally go the wrong way from the planned route, the app will automatically recalculate the route (**internet connection required**).
 
 ### Edit route
@@ -81,7 +81,7 @@ To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route**
 
 ![](/assets/transit_point_menu.png)
 
-These signs will appear on the map along your route:
+These signs will appear on the map along with your route:
 
 ![](/assets/transit_point.png) — for transit points, ![](/assets/stop_point.png) — for stop points.
 
@@ -93,7 +93,7 @@ To edit or delete the waypoint, just tap it on the map to bring up the pop-up me
 
 When you’re navigating to a place, you can hear voice directions. You can stop receiving directions at any time while in navigation mode by tapping sound icon ![](/assets/sound_icon.png)
 
-**Tip**: long tap on sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the driving directions in the app Settings > Navigation.
+**Tip**: long tap on the sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the driving directions in the app Settings > Navigation.
 
 
 ## Importing KML/KMZ/GPX Files {#importing}
@@ -111,7 +111,7 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 
 
 #### File Manager/Dropbox
-If you saved KML/KMZ/GPX file on your device storage, or inserted SD Card with some KML/KMZ/GPX files, you can add it to your Collections in Galileo by clicking on them from any of installed file managers on your device.
+If you saved KML/KMZ/GPX file on your device storage or inserted SD Card with some KML/KMZ/GPX files, you can add it to your Collections in Galileo by clicking on them from any of installed file managers on your device.
 
 
 #### URL
@@ -137,7 +137,7 @@ Then tap choose application, which you want to share with:
 
 ## Bookmarks {#bookmarks}
 
-The Bookmarks feature, available as an in-app purchase, is a great way to keep your favourite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.  
+The Bookmarks feature, available as an in-app purchase, is a great way to keep your favorite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.  
 
 #### Create new bookmark
 
@@ -219,11 +219,11 @@ Collections are groups of bookmarks and GPS tracks, like folders on your desktop
 
 To open My Collections list, tap the ![](/assets/icon_my_collections.png) icon on the map. 
 
-To create new collection, tap the + button at the bottom of the My Collections list. Enter details, then tap OK.
+To create a new collection, tap the + button at the bottom of the My Collections list. Enter details, then tap OK.
 
 ![](/assets/my_collections.png)
 
-To view a set of bookmarks and GPS track within the collection, tap the collection name in list. 
+To view a set of bookmarks and GPS track within the collection, tap the collection name in a list. 
 
 You can easily sort collections and its content by date created, distance and file name in the list:
 				 							
@@ -250,7 +250,7 @@ To **view collection details** tap ![](/assets/icon_info.png) icon next to the n
 
 To **edit collection name and description** tap the name or description field and use the onscreen keyboard to type a new text.
 
-To **set a collection as default** tap the Default Collection switch to ON to save newly added bookmarks and GPS tracks to this collection.
+To **set a collection as default** move the Default Collection switch ON to save newly added bookmarks and GPS tracks to this collection.
 
 To **select a parent collection** in which this current collection is cataloged, tap My Collections cell.
 

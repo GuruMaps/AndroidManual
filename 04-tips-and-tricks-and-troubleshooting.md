@@ -1,10 +1,10 @@
 # Tips and Tricks and Troubleshooting
 
-> In this section we will go over some of advanced features as they pertain to specific areas of using an app.
+> In this section we will go over some of the advanced features as they pertain to specific areas of using an app.
 
 ## Custom Map Sources {#customMapSources}
 
-In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains description of map provider.
+In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains a description of map provider.
 
 ### Simple custom map sources {#simpleCustomMapSources}
 
@@ -78,7 +78,7 @@ Sometimes you can see empty map areas (tiles), with the following warning messag
 
 ## Offline Maps Import {#offlineMapsImport}
 
-Feature, available as an in-app purchase, allows you to import previously created custom offline maps in .sqlitedb or .mbtiles format.
+A feature, available as an in-app purchase, allows you to import previously created custom offline maps in .sqlitedb or .mbtiles format.
 
 #### Creating an offline map
 
@@ -105,7 +105,7 @@ Once you have created an offline map, you should upload it to your device.
 
 #### Using offline maps
 
-Go to Map Source in app settings and select the imported map name in the list and back to the map view. If you are not over the area with offline map, tap the green arrow indicating the direction to the offline map. Zoom in to see a detailed view of your offline map.
+Go to Map Source in app settings and select the imported map name in the list and back to the map view. If you are not over the area with an offline map, tap the green arrow indicating the direction to the offline map. Zoom in to see a detailed view of your offline map.
 						
 #### Troubleshooting
 
