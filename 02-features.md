@@ -80,7 +80,7 @@ If you miss a turn or intentionally go the wrong way from the planned route, the
 
 To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. There is possible to add additional stops along the way by long tap on the map:
 
-![](/assets/transit_point_menu.png)
+<img src="/assets/transit_point_menu.png" width="375" height="175" />
 
 These signs will appear on the map along with your route:
 
@@ -88,7 +88,7 @@ These signs will appear on the map along with your route:
 
 To edit or delete the waypoint, just tap it on the map to bring up the pop-up menu:
 
-![](/assets/transit_point_popup.png)
+<img src="/assets/transit_point_popup.png" width="375" height="147" />
 
 ### Voice directions
 
