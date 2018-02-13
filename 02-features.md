@@ -19,23 +19,23 @@ The search screen is separated into three parts:
 
 **Note**: offline search is possible within the downloaded offline maps and only places which are mapped at OpenStreetMap.org could be found.
 
-![](/assets/search_1.png)
+<img src="/assets/search_1.png" width="375" height="667" />
 
 ### Search by category
 
 There are predefined categories available on the screen for a quick search. Just tap the category icon \(food, accommodation, etc\) to list the matching results for a given category:
 
-![](/assets/search_2.png)
+<img src="/assets/search_2.png" width="375" height="440" />
 
 You can also narrow your search by entering keyword after the category name as shown below:
 
-![](/assets/search_3.png)
+<img src="/assets/search_3.png" width="375" height="442" />
 
 ### Search by name
 
 Just start typing the name of the object you are looking for. As you type, you'll see a list of search results and suggestions:
 
-![](/assets/search_4.png)
+<img src="/assets/search_4.png" width="375" height="401" />
 
 Tip: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling:
 
@@ -43,7 +43,7 @@ Tip: It is not necessary to type punctuation or worry about capital letters, but
 
 If you know the exact coordinates of a location, you can simply enter them into the search field to locate it on the map:
 
-![](/assets/search_5.png)
+<img src="/assets/search_5.png" width="375" height="193" />
 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
 
