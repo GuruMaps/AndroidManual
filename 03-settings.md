@@ -40,11 +40,11 @@ This section describes the vector maps related settings within the app.
 
 Vector maps are available and free for download within the app:
  
-![](/assets/download_maps.png)
+<img src="/assets/download_maps.png" width="375" height="51" />
 
 To **download a map of the selected country** tap the country name in Available Maps list:
 
-![](/assets/item_map_to_download.png)
+<img src="/assets/item_map_to_download.png" width="375" height="418" />
 
 To **pause a download**, tap the cell with the country name tap it again to resume a download,
 To **go to downloaded map** tap the  button,
@@ -52,11 +52,11 @@ to **remove a map** swipe your finger across the country name from right to left
 
 As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for a downloaded map, you will see Update button near the downloaded map name:
 
-![](/assets/update_downloaded_map.png)
+<img src="/assets/update_downloaded_map.png" width="375" height="93" />
 
 To **update all your downloaded maps** tap the “Update All” button in toolbar menu:
 
-![](/assets/update_all_button.png)
+<img src="/assets/update_all_button.png" width="375" height="139" />
 
 
 ### Font and Languages {#fontsAndLanguages}
@@ -69,8 +69,7 @@ You can configure Galileo to display all text on a vector map at a comfortable f
 
 In some regions, objects on the map in addition to local names have names in other languages. A map will show the names on the first language in this list if exists. It may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
 
-
-![](/assets/fonts_and_language.png)
+<img src="/assets/fonts_and_language.png" width="375" height="486" />
 
 
 ### Map Features {#mapFeatures}
@@ -107,14 +106,14 @@ To hide trip monitor panel from the map view, turn off this option.
 
 To enable the real-time display of coordinates on the map, turn on this option. If enabled, crosshairs will appear in the center of the map and coordinates for the crosshairs will be beneath the map scale bar in selected format as well as the current zoom level:
 
-![](/assets/show_coordinates.png)
-
+<img src="/assets/show_coordinates.png" width="375" height="58" />
 
 ### Show Zoom Buttons {#showZoomButtons}
 
 To make visible zoom control buttons on the map, turn this option on. If enabled, plus and minus zoom buttons will appear on the map:
 
 ![](/assets/zoom_buttons.png)
+<img src="/assets/zoom_buttons.png" width="63" height="131" />
 
 ### Show Bookmark Name
 
