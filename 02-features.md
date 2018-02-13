@@ -54,7 +54,8 @@ Galileo Offline Maps gives you the ability to find the best route and get step b
 
 **Note**: building a route requires internet connection
 
-![](/assets/2018-01-05 11.40.19.jpg)
+
+<img src="/assets/route_building.png" width="375" height="193" />
 
 ### Create route
 
