@@ -18,7 +18,9 @@ If you use Galileo feature, that requires location services \(Such as [Tracking]
 * Tapping OK will continue your previous action.
 * Tapping CANCEL will prevent the app from accessing your location. You may enable Location Services for Galileo at any time in system Settings &gt; Location
 
-![](/assets/enable_gps.png)
+
+<img src="/assets/enable_gps.png" width="375" height="463" />
+
 
 ### Read & Write permissions {#readWritePermissions}
 
@@ -27,7 +29,8 @@ If you use Galileo feature, that requires permission to read/write on your devic
 * Tapping ALLOW will continue your previous action.
 * Tapping DENY will prevent the app from accessing your device storage. You may allow read/write permissions for Galileo at any time in system Settings &gt; Apps &gt; Galileo &gt; Permissions. 
 
-![](/assets/read_write_permission.png)
+<img src="/assets/read_write_permission.png" width="375" height="224" />
+
 
 ## Download a Map {#DownloadAMap}
 
@@ -39,11 +42,17 @@ Other regions will be available for download while browsing and zooming directly
 
 There are standard and well-known gestures such as tap, drag and pinch which are used to interact with the app.  
 To **move the map**, drag it with your finger in the direction you want to position the map:  
-![](/assets/finger-moving.png)  
+
+<img src="/assets/finger-moving.png" width="53" height="84" />  
+
 To **zoom in**, use double tap or pinch your thumb and finger apart:  
-![](/assets/double-tap.png) ![](/assets/expanding.png)  
+ 
+<img src="/assets/double-tap.png" width="53" height="84" /> <img src="/assets/expanding.png" width="75" height="83" />  
+
 To **zoom out**, tap with two fingers or pinch your thumb and finger together:  
-![](/assets/two-finger-tap.png) ![](/assets/reducing-size.png)  
+ 
+<img src="/assets/two-finger-tap.png" width="58" height="84" /> <img src="/assets/reducing-size.png" width="71" height="84" />
+
 Tip: to zoom in/out with only one finger, double-tap the map, hold the second tap and drag your finger up or down.  
 To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](02-settings.md#showZoomButtons) to enable them. 
 
@@ -53,10 +62,11 @@ Tap the map and hold to bring up the pop-up with available options \(from left t
 2. Mark your current location  
 3. Get route directions to this location  
 
-![](/assets/map_popup.png)
+<img src="/assets/map_popup.png" width="281" height="101" />
 
 To [measure the distance](02-features.md#measuringDistance) between two points as the crow flies, tap your starting and destination points with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed.  
-![](/assets/measuring_distance.png)
+
+<img src="/assets/measuring_distance.png" width="375" height="88" />
 
 ## Interface Overview {#interfaceOverview}
 
@@ -68,7 +78,8 @@ To [measure the distance](02-features.md#measuringDistance) between two points a
 
 The app works in multiple modes depending on a number of taps on _Location_ button with the following sign ![](/assets/icon_gps.png). Your position is shown on the map as a blue marker when you are staying and as a blue arrow when you are moving:
 
-![](/assets/map_location.png) ![](/assets/map_driving.png)
+<img src="/assets/map_location.png" width="250" height="250" /> <img src="/assets/map_driving.png" width="250" height="250" />
+
 
 Tip: if your location cannot be determined precisely, a blue circle also appears around the location marker. The size of the circle depends on how accurately your location can be determined: the smaller the circle – the greater the accuracy.
 
@@ -100,14 +111,14 @@ Note: depending on your device and available services, Location Services uses a 
 
 Trip monitor panel provides you all the necessary trip statistics while moving. If enabled, it will display such useful information as \(from left to right\):
 
-![](/assets/trip_monitor_1.png)
+<img src="/assets/trip_monitor_1.png" width="375" height="56" />
 
 * current speed
 * altitude
 
 While recording a GPS track it will additionally display \(from left to right\):
 
-![](/assets/trip_monitor_2.png)
+<img src="/assets/trip_monitor_2.png" width="375" height="114" />
 
 * distance traveled
 * trip duration
