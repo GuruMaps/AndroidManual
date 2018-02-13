@@ -108,8 +108,7 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 2. Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
 3. Choose the "Open with Galileo" option to initiate the file import process.
 
-![](/assets/import_1.png)
-
+<img src="/assets/import_1.png" width="375" height="479" />
 
 #### File Manager/Dropbox
 If you saved KML/KMZ/GPX file on your device storage or inserted SD Card with some KML/KMZ/GPX files, you can add it to your Collections in Galileo by clicking on them from any of installed file managers on your device.
@@ -120,7 +119,7 @@ In case you have a web link to the KML/KMZ/GPX file:
 1. Tap the link to open it in your browser.  
 2. Select "Galileo" option to initiate the import process.
 
-![](/assets/import_2.png)
+<img src="/assets/import_2.png" width="374" height="298" />
 
 ## Exporting Geodata {#exporting}
 
@@ -133,8 +132,7 @@ Tap the ![](/assets/icon_share.png) icon on details screen.
 Tap "Save as KML", "Save as GPX", "Share URL" button.
 Then tap choose application, which you want to share with:
 
-![](/assets/share_url.png)
-
+<img src="/assets/share_url.png" width="375" height="420" />
 
 ## Bookmarks {#bookmarks}
 
@@ -144,13 +142,13 @@ The Bookmarks feature, available as an in-app purchase, is a great way to keep y
 
 Touch and hold on the map until the pop-up appears, then tap the Bookmark icon:
 
-![](/assets/Screenshot_1509012811.png) → ![](/assets/single_bookmark.png)
+<img src="/assets/Screenshot_1509012811.png" width="270" height="480" /> → <img src="/assets/single_bookmark.png" width="270" height="480" />
 
 #### View bookmark name
 
 Tap the bookmark icon on the map. Tap it again to hide it:
 
-![](/assets/Screenshot_1509012829.png)
+<img src="/assets/Screenshot_1509012829.png" width="375" height="667" />
 
 To **move the bookmark** tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.	
 
@@ -168,7 +166,7 @@ To **edit coordinates**, tap the coordinates to start edit (X ,Y) GPS coordinate
 
 To **show the direction to the bookmark**, tap the Bearing Line switch option to ON:
 
-![](/assets/bearing_line.png)
+<img src="/assets/bearing_line.png" width="375" height="667" />
 
 **Note**: The bearing line to only one bookmark can be displayed on the map at any given moment.
 
@@ -192,7 +190,7 @@ Tap the **REC** button on the screen with the map. It will change dot color from
 
 **Tip**: while a GPS track is being recorded, notification appear in status bar:
 
-![](/assets/track_ercording_notification.png)
+<img src="/assets/track_ercording_notification.png" width="375" height="414" />
 
 **Note**: to record GPS tracks in background, make sure you have disabled Battery Saver in device settings.
 
@@ -222,7 +220,7 @@ To open My Collections list, tap the ![](/assets/icon_my_collections.png) icon o
 
 To create a new collection, tap the + button at the bottom of the My Collections list. Enter details, then tap OK.
 
-![](/assets/my_collections.png)
+<img src="/assets/my_collections.png" width="375" height="667" />
 
 To view a set of bookmarks and GPS track within the collection, tap the collection name in a list. 
 
@@ -238,12 +236,11 @@ To **delete from the list** swipe left your finger horizontally across the colle
 
 To **show/hide item** tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
 
-![](/assets/inactive_collections_item.png)
+<img src="/assets/inactive_collections_item.png" width="375" height="101" />
 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
-![](/assets/collelctions_edit_mode.png)
-
+<img src="/assets/collelctions_edit_mode.png" width="375" height="667" />
 
 ### Collections Details
 
