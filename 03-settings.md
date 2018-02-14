@@ -119,7 +119,8 @@ To make visible zoom control buttons on the map, turn this option on. If enabled
 
 To make visible bookmark name on the map, turn this option on. If enabled, a bookmark will change its view and the name of a bookmark will appear:
 
-![](/assets/setting_show_bookmark_name.png)
+<img src="/assets/setting_show_bookmark_name.png" width="375" height="53" />
+
 
 ### Screen Auto-Lock {#screenAutoLock}
 
@@ -137,21 +138,21 @@ Selected style is a default line style for the newly recorded and imported GPS t
 
 _1. By color:_
 
-![](/assets/default_styles_1.png)
+<img src="/assets/default_styles_1.png" width="375" height="117" />
 
 _2. By speed:_
 
-![](/assets/default_styles_2.png)
+<img src="/assets/default_styles_2.png" width="375" height="115" />
 
 _3. By altitude:_
 
-![](/assets/default_styles_3.png)
+<img src="/assets/default_styles_3.png" width="375" height="114" />
 
 #### Default bookmark category
 
 Selected category is a default icon for newly created and imported bookmarks:
 
-![](/assets/default_styles.png)
+<img src="/assets/default_styles.png" width="375" height="416" />
 
 ## Advanced Settings {#advanced}
 
@@ -163,15 +164,14 @@ To enable synchronization feature, go to the app Settings > Sync and select the 
 Note: use the same login on all your devices to keep the data synchronized. 
 **Tip**: synchronization is a beta feature, so we recommend to backup your collections in advance to avoid unexpected data loss.
 
-![](/assets/sync.png)
-
+<img src="/assets/sync.png" width="375" height="402" />
 
 ### Navigation {#navigation}
 
 The default language of voice instructions you hear while navigating a route depends on the language your device is set to use. 
 To change the language, select one from the Voice Instructions list:
 
-![](/assets/settings_navigation_language.png)
+<img src="/assets/settings_navigation_language.png" width="375" height="414" />
 
 **Note**: as the app use text-to-speech (TTS) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
 
@@ -186,7 +186,7 @@ Tap Back Up My Collections button on Settings &gt; Data Backup screen to backup 
 **Note**: created backup only includes data from My Collections \(bookmarks and GPS tracks\), and it doesn't include downloaded and cached tiles.  
 When the backup finished successfully, you'll see the name of the device along with the date and time the backup was created:
 
-![](/assets/backup.png)
+<img src="/assets/backup.png" width="375" height="53" />
 
 #### Save backup
 
@@ -194,7 +194,7 @@ Backups are stored on your device and will be removed automatically when the app
 
 You can use cloud services (Dropbox, OneDrive, Adobe Creative Cloud, Google Drive, etc) to save them.
 
-![](/assets/backup_share.png)
+<img src="/assets/backup_share.png" width="375" height="299" />
 
 #### Restore from a backup
 
@@ -202,11 +202,11 @@ There are several ways to restore your data from a backup:
 
 * Select .gbackup file from any file manager installed and choose Galileo:
 
-![](/assets/open_backup_file_manager.png)
+<img src="/assets/open_backup_file_manager.png" width="375" height="473" />
 
 * Select item from your cloud service \(e.g. in Dropbox app\) and choose Galileo:
 
-![](/assets/open_backup_dropbox.png)
+<img src="/assets/open_backup_dropbox.png" width="322" height="233" />
 
 * Move .gbackup file to Internal Storage &gt; Galileo\_backups folder. All .gbackup files from this directory will be listed in Galileo. Go to Settings &gt; Data Backup and tap preferred backup.
 
@@ -218,7 +218,7 @@ There are several ways to restore your data from a backup:
 
 To set how often to refresh cached map tiles, go to Settings &gt; Cache Info. All tiles older than selected time will be downloaded while browsing online.
 
-![](/assets/cache_info.png)
+<img src="/assets/cache_info.png" width="375" height="403" />
 
 #### Cache Info
 
@@ -229,7 +229,7 @@ All loaded map tiles will be automatically saved to your device's storage and ca
 
 If your device supporting SD Card memory extension and one of your storages become insufficient you can change default Map Download Storage in Settings &gt; Maps Storage. After selecting one of the available storages all downloaded Maps will be moved to selected one. Maps will be downloaded on the storage with the largest amount of free space by default. If you don’t see Maps Storage Settings your device might not support SD Card memory extension or SD Card is not present.
 
-![](/assets/maps_storage.png)
+<img src="/assets/maps_storage.png" width="375" height="233" />
 
 ### GPS Filtering {#gpsFiltering}
 
@@ -239,7 +239,7 @@ Galileo Offline Maps app supports GPS data filtering in Settings &gt; GPS Filter
 
 Filter by the minimum accuracy at which the new points will be accepted. New points will be added to GPS track while recording if the accuracy is lower than selected (recommended value is 150 m).
 
-![](/assets/accuracy_threshold.png)
+<img src="/assets/accuracy_threshold.png" width="375" height="153" />
 
 **Example**: You are recording your GPS track while walking around your neighborhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to set the required accuracy and ignore inaccurate GPS data. If the received signal has lower than the required accuracy, that point will not be recorded in the track.
 
@@ -247,7 +247,7 @@ Filter by the minimum accuracy at which the new points will be accepted. New poi
 
 Filter by the minimum distance traveled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected (recommended value is 5 m).
 
-![](/assets/distance_threshold.png)
+<img src="/assets/distance_threshold.png" width="375" height="152" />
 
 **Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking, and the recorded track will take up more space. You may enable the distance filter to ignore GPS points if they are too close to each other. New points will start recording as you exceed the distance selected in the filter.
 
