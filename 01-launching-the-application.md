@@ -58,8 +58,13 @@ To **zoom out**, tap with two fingers or pinch your thumb and finger together:
  
 <img src="/assets/two-finger-tap.png" width="58" height="84" /> <img src="/assets/reducing-size.png" width="71" height="84" />
 
-Tip: to zoom in/out with only one finger, double-tap the map, hold the second tap and drag your finger up or down.  
+To **zoom in/out with only one finger**, double-tap the map, hold the second tap and drag your finger up or down.
+
 To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](02-settings.md#showZoomButtons) to enable them. 
+
+To **rotate the map**, hold the map with two fingers and drag them simultaneously in a circular motion. A compass icon will appear which you can tap to return the map to north-up:
+
+<img src="/assets/hand_gesture.png" width="98" height="98" />
 
 Tap the map and hold to bring up the pop-up with available options \(from left to right\):  
 
