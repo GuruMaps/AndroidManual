@@ -11,7 +11,7 @@ When launching the Galileo application on your device for the first time, you wi
 * Tapping ALLOW will give the app permission to use Location Services to determine your current location on a map if needed.
 * Tapping DENY will prevent the app from accessing your location. You may allow location services access for Galileo at any time in system Settings &gt; Apps &gt; Galileo &gt; Permissions.
 
-<img src="/assets/location_permissions.png" width="375" height="194" />
+<img src="/assets/location_permissions.png" width="375" height="193" />
 
 If you use Galileo feature, that requires location services \(Such as [Tracking](02-features.md#GPSTracks) and [Routing](02-features.md#routingMode)\), you will see a message asking you to enable it, if it was disabled before.
 
@@ -34,9 +34,14 @@ If you use Galileo feature, that requires permission to read/write on your devic
 
 ## Download a Map {#DownloadAMap}
 
-When you allow the app to use your location, the app will ask you to download the map for your region when launching the app for the first time.
+When you allow the app to use your location, the app will ask you to download the map for your region when launching the app for the first time:
 
-Other regions will be available for download while browsing and zooming directly on the map or from the app settings at [Download Maps](03-settings.md#downloadMaps) menu.
+<img src="/assets/download_map_1.png" width="375" height="144" />
+
+Other regions will be available for download while browsing and zooming directly on the map or from the app settings at [Download Maps](03-settings.md#downloadMaps) menu:
+
+<img src="/assets/download_map_2.png" width="375" height="168" />
+
 
 ## Navigating a Map {#navigatingTheMap}
 
