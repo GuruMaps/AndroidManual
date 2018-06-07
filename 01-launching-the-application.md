@@ -91,7 +91,7 @@ The app works in multiple modes depending on a number of taps on _Location_ butt
 <img src="/assets/map_location.png" width="250" height="250" /> <img src="/assets/map_driving.png" width="250" height="250" />
 
 
-Tip: if your location cannot be determined precisely, a blue circle also appears around the location marker. The size of the circle depends on how accurately your location can be determined: the smaller the circle – the greater the accuracy.
+**Tip:** if your location cannot be determined precisely, a blue circle also appears around the location marker. The size of the circle depends on how accurately your location can be determined: the smaller the circle – the greater the accuracy.
 
 #### Tracking mode {#trackingMode}
 
