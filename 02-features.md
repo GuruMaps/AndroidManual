@@ -56,7 +56,7 @@ If you know the exact coordinates of a location, you can simply enter them into 
 
 ### Address search
 
-Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search **online**:
+Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Search** to perform a search **online**:
 
 <img src="/assets/search_address_1.png" width="375" height="339" />
 
@@ -73,12 +73,7 @@ To save search result to your collections, tap ![](/assets/icon_save_to_collecti
 
 ## Navigation {#navigation}
 
-Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk.
-
-**Note**: building a route requires internet connection
-
-
-<img src="/assets/route_building.png" width="375" height="193" />
+Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk (**internet connection required**).
 
 ### Create route
 
@@ -86,14 +81,25 @@ To get started with the route planner feature, define the place you want to go f
 
 Alternatively: 
 * you can tap  icon on the bottom line of the bookmark/POI/search results details screen
-* swipe right on a bookmark in My Collections or search results list, then tap.
+* swipe right on a bookmark in My Collections or search results list, then tap ![](/assets/route_to_icon.png).
 
 A map will appear with your driving route highlighted in blue with some route information at the bottom:
+
 * Distance to go
 * Arrival time
 * Time to go
 
-The route will be shown for a **drive mode** by default, but you may have to switch it to the appropriate one for your needs:
+<img src="/assets/route_building.png" width="375" height="193" />
+
+Route will be shown for **drive** mode by default, but you may choose the appropriate mode for your needs:
+
+<img src="/assets/route_set_2.png" width="375" height="58" />
+
+If you choose cycle or hiking a gradient will appear which shows an altitude during the route (**gradient will appear only if there is an internet connection**):
+
+<img src="/assets/navigation_2.png" width="375" height="667" />
+
+**Note:** The point on the track is related to the speed and altitude values.
 
 To begin navigation, tap ![](/assets/play_icon.png) icon. 
 To stop your route, tap ![](/assets/pause_button.png) icon, then Stop movement option from a menu.
