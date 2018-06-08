@@ -138,25 +138,31 @@ The screen of your device will be turned off automatically after a specified per
 Turn this option off if you want your device not to lock the screen while using the Galileo app.
 
 
-### Default Styles {#defaultStyles}
+## Default Settings {#defaultStyles}
 
-To set a color for GPS tracks and category for bookmarks used by default, go to app Settings &gt; Default Styles.  
 
 #### Default track style
 
-Selected style is a default line style for the newly recorded and imported GPS tracks:
-
-_1. By color:_
+Selected style is a default line style for the newly recorded and imported GPS tracks (solid color/speed gradient/altitude gradient):
 
 <img src="/assets/default_styles_1.png" width="375" height="117" />
 
-_2. By speed:_
+#### GPS filtering {#GpsFiltering}
 
-<img src="/assets/default_styles_2.png" width="375" height="115" />
+<img src="/assets/gps_filtering.png" width="375" height="170" />
 
-_3. By altitude:_
+Filters will be applied for new and imported tracks.
 
-<img src="/assets/default_styles_3.png" width="375" height="114" />
+#### Accuracy Threshold
+
+Filter by the minimum accuracy of the received points. Points that are on the outside of the filter value will not be displayed in the track.
+
+#### Distance Threshold
+
+Filter by the minimum distance between points of a recorded track. Points that are closer than the distance specified in the filter will not be displayed in the track.
+
+Read more: [Track Details](02-features.md#TrackDetails)
+
 
 #### Default bookmark category
 
@@ -166,13 +172,13 @@ Selected category is a default icon for newly created and imported bookmarks:
 
 ## Advanced Settings {#advanced}
 
-### Sync {#sync}
+### Synchronization {#sync}
 
 Galileo Offline Maps allows you to synchronize all your data to make your collections visible and available through all your devices using your Facebook or Google account.
+
 App uses Facebook/Google login only for authentication, this does not let the Galileo post or share your data.
+
 To enable synchronization feature, go to the app Settings > Sync and select the appropriate way to authenticate.
-Note: use the same login on all your devices to keep the data synchronized. 
-**Tip**: synchronization is a beta feature, so we recommend to backup your collections in advance to avoid unexpected data loss.
 
 <img src="/assets/sync.png" width="375" height="402" />
 
