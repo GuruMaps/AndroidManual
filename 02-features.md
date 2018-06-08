@@ -119,11 +119,11 @@ To edit or delete the waypoint, just tap it on the map to bring up the pop-up me
 
 <img src="/assets/transit_point_popup.png" width="375" height="147" />
 
-### Voice directions
+### Voice instructions
 
 When you’re navigating to a place, you can hear voice directions. You can stop receiving directions at any time while in navigation mode by tapping sound icon ![](/assets/sound_icon.png)
 
-**Tip**: long tap on the sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the driving directions in the app Settings > Navigation.
+A long tap on the sound icon allows choosing one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the navigation instructions in the app Settings &gt; Navigation.
 
 
 ## Importing KML/KMZ/GPX Files {#importing}
@@ -131,22 +131,24 @@ When you’re navigating to a place, you can hear voice directions. You can stop
 You can easily import KML/KMZ/GPX files to view them on the map in several ways using email, URL or Files app.
 
 #### Email
+
 If you have a KML/KMZ/GPX file that someone shared with you via email, you can view it in the Galileo app:
 	
-1. Open the message containing the KML/KMZ/GPX file as an attachment.
-2. Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
-3. Choose the "Open with Galileo" option to initiate the file import process.
+* Open the message containing the KML/KMZ/GPX file as an attachment.
+* Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
+* Choose the "Open with Galileo" option to initiate the file import process.
 
 <img src="/assets/import_1.png" width="375" height="479" />
 
 #### File Manager/Dropbox
-If you saved KML/KMZ/GPX file on your device storage or inserted SD Card with some KML/KMZ/GPX files, you can add it to your Collections in Galileo by clicking on them from any of installed file managers on your device.
 
+If you saved KML/KMZ/GPX file on your device storage or inserted SD Card with some KML/KMZ/GPX files, you can add it to your Collections in Galileo by clicking on them from any of installed file managers on your device.
 
 #### URL
 In case you have a web link to the KML/KMZ/GPX file:  
-1. Tap the link to open it in your browser.  
-2. Select "Galileo" option to initiate the import process.
+
+* Tap the link to open it in your browser.  
+* Select "Galileo" option to initiate the import process.
 
 <img src="/assets/import_2.png" width="374" height="298" />
 
@@ -154,30 +156,32 @@ In case you have a web link to the KML/KMZ/GPX file:
 
 Galileo allows you to export any of you geodata (bookmarks, tracks or whole collections) to files compatible with many other apps in several ways: 
 
-#### Share Collections
+#### Share Collections/Tracks/Bookmarks
 
-Galileo supports File Sharing option that allows you to share your collections:  
-Tap the ![](/assets/icon_share.png) icon on details screen.  
-Tap "Save as KML", "Save as GPX", "Share URL" button.
-Then tap choose application, which you want to share with:
+Galileo supports File Sharing option that allows you to share your data:  
+
+* Tap the ![](/assets/icon_share.png) icon on details screen.  
+* Tap "Save as KML", "Save as GPX", "Share URL" button.
+* Tap choose application, which you want to share with:
 
 <img src="/assets/share_url.png" width="375" height="420" />
 
+
 ## Bookmarks {#bookmarks}
 
-The Bookmarks feature, available as an in-app purchase, is a great way to keep your favorite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.  
+The Bookmarks feature is a great way to keep your favorite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.  
 
 #### Create new bookmark
 
 Touch and hold on the map until the pop-up appears, then tap the Bookmark icon:
 
-<img src="/assets/Screenshot_1509012811.png" width="270" height="480" /> → <img src="/assets/single_bookmark.png" width="270" height="480" />
+<img src="/assets/map_popup.png" width="281" height="101" />
 
 #### View bookmark name
 
 Tap the bookmark icon on the map. Tap it again to hide it:
 
-<img src="/assets/Screenshot_1509012829.png" width="375" height="667" />
+<img src="/assets/bookmark_name_1.png" width="285" height="136" />
 
 To **move the bookmark** tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.	
 
