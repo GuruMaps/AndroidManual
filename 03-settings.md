@@ -1,4 +1,4 @@
- # Settings
+# Settings
 
 > Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as an optional and more advanced way of using the app. Settings let you configure app options, purchase additional features and manage geo data representation.
 
@@ -11,7 +11,7 @@ To switch to another map to display, select **Map Source** menu in app settings.
 Vector map source is set by default. Once you’ve downloaded it (**internet connection required**), it will be available offline.
 Vector maps are detailed, smooth, fast and provide high-quality image rendered in real time on the device. It takes up less storage space than raster maps.
 
-**Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on a computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection.
+**Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on a computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection. However, any personal raster/tile maps will use considerably more space than vector maps you may install.
 
 	 						 						
 ### Online maps
@@ -26,11 +26,19 @@ There is a list of built-in raster map sources available online:
 * Stamen – Terrain (USA only)
 * Stamen – Toner
 						 						
-Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in while you have access to the Internet.
+Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in to the lowest viewable level of detail while you have access to the Internet. The level of saved detail will reflect the zoom level you viewed.
+
+Read also: [Cache Info](/03-settings.md#cacheInfo).
 						 						
 **Note**: map download speed can vary while using online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
 
 In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains a description of map provider.
+
+Read also: [Custom Map Sources](/04-tips-and-tricks-and-troubleshooting.md#customMapSources).
+
+### Additional source
+
+You can add more online map sources to Galileo here: https://ms.galileo-app.com/
 
 ## Vector Maps Settings {#vectorMapsSettings}
 
@@ -46,11 +54,11 @@ To **download a map of the selected country** tap the country name in Available 
 
 <img src="/assets/item_map_to_download.png" width="375" height="418" />
 
-To **pause a download**, tap the cell with the country name tap it again to resume a download,
-To **go to downloaded map** tap the  button,
-to **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the Edit button.
+* To **pause a download**, tap the cell with the country name tap it again to resume a download,
+* To **go to downloaded map** tap the ![](/assets/icon_show_on_map.png) button,
+* To **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the Edit button.
 
-As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for a downloaded map, you will see Update button near the downloaded map name:
+As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for a downloaded map, you will see **Update** button near the downloaded map name:
 
 <img src="/assets/update_downloaded_map.png" width="375" height="93" />
 
@@ -72,7 +80,7 @@ In some regions, objects on the map in addition to local names have names in oth
 <img src="/assets/fonts_and_language.png" width="375" height="486" />
 
 
-### Map Features {#mapFeatures}
+### Map Features \(**Points of Interest\)** {#mapFeatures}
 
 In addition to the basic appearance settings, you can select the objects you wish to display on the vector map. Select only the objects that you want to display to keep the map tidy and uncluttered:
 
@@ -96,7 +104,10 @@ In addition to the basic appearance settings, you can select the objects you wis
 
 ## Appearance Settings {#appearance}
 
-The following group of settings is used to configure how the main map looks.  
+The following group of settings is used to configure how the main map looks:
+
+<img src="/assets/settings_appearance.png" width="375" height="332" />
+  
 
 ### Show Trip Monitor {#showTripMonitor}
  
