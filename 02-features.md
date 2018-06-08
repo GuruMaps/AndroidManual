@@ -215,13 +215,15 @@ To create a route to this bookmark, tap ![](/assets/icon_routing_blue.png) icon.
 
 To **delete a bookmark**, tap ![](/assets/icon_trash.png) icon at the bottom of the bookmark details screen.
 
+**Tip**: The best way to export several bookmarks at once is to save them in one collection and export the whole collection.
+
 ## GPS Tracks {#GPSTracks}
 
 Galileo Offline Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats.
 
 #### Record GPS Track
 
-Tap the **REC** button on the screen with the map. It will change dot color from gray to red. If you recorded track before, you will be suggested to continue the last track recording, or to start the new one. Tap the REC button again and the recording stops:
+Tap the **REC** button on the screen with the map. It will become red. If you recorded track before, you will be suggested to continue the last track recording, or to start the new one. Tap the **REC** button again and the recording stops:
 
 * ![](/assets/icon_rec_disabled.png) — track is not recording,
 * ![](/assets/icon_rec_enabled.png) — track is recording now.
@@ -231,6 +233,10 @@ Tap the **REC** button on the screen with the map. It will change dot color from
 <img src="/assets/track_ercording_notification.png" width="375" height="414" />
 
 **Note**: to record GPS tracks in background, make sure you have disabled Battery Saver in device settings.
+
+#### View GPS track details {#TrackDetails}
+
+<img src="/assets/track_description.png" width="375" height="667" />
 
 To **view track details** tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the My Collections list.
 
