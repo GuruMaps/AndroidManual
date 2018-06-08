@@ -91,7 +91,7 @@ The app works in multiple modes depending on a number of taps on _Location_ butt
 <img src="/assets/map_location.png" width="250" height="250" /> <img src="/assets/map_driving.png" width="250" height="250" />
 
 
-Tip: if your location cannot be determined precisely, a blue circle also appears around the location marker. The size of the circle depends on how accurately your location can be determined: the smaller the circle – the greater the accuracy.
+**Tip:** if your location cannot be determined precisely, a blue circle also appears around the location marker. The size of the circle depends on how accurately your location can be determined: the smaller the circle – the greater the accuracy.
 
 #### Tracking mode {#trackingMode}
 
@@ -107,7 +107,7 @@ To enable the **driving mode**, double tap the _Location_ button:
 
 ![](/assets/icon_gps.png) → ![](/assets/icon_gps_act.png) → ![](/assets/icon_compas.png)
 
-While in driving mode, the app will orient the map in the direction you are currently moving. If you stop moving, the map will be oriented by compass.
+While in driving mode, the app will orient the map in the direction you are currently moving. If you stop moving, the map will be oriented to the north.
 
 Note: the accuracy of the compass can be affected by magnetic or environmental interference \(e.g. the magnets in earbuds\) and compass may need to be calibrated from time to time. When the device displays the calibration alert, tilt the screen to move the red ball around in a circle.
 
@@ -115,7 +115,7 @@ Note: the accuracy of the compass can be affected by magnetic or environmental i
 
 Every time you see this icon ![](/assets/icon_question.png), it means that your GPS currently cannot get information about your location. It may also appear when Location Services is disabled on your device.
 
-Note: depending on your device and available services, Location Services uses a combination of cellular, Wi-Fi, Bluetooth, and GPS to determine your location. If you're not within a clear line of sight to GPS satellites, your device can determine your location using crowd-sourced Wi-Fi and cell tower locations.
+**Note:** depending on your device and available services, Location Services uses a combination of cellular, Wi-Fi, Bluetooth, and GPS to determine your location. If you're not within a clear line of sight to GPS satellites, your device can determine your location using crowd-sourced Wi-Fi and cell tower locations.
 
 ## Trip Computer {#tripComputer}
 
