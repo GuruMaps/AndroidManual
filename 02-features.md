@@ -301,7 +301,7 @@ To **delete from the list** swipe left your finger horizontally across the colle
 
 To **show/hide item** tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
 
-<img src="/assets/inactive_collections_item.png" width="375" height="101" />
+<img src="/assets/inactive_collections_item.png" width="375" height="357" />
 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
