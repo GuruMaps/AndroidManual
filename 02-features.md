@@ -303,7 +303,7 @@ To **show/hide item** tap the ![](/assets/icon_hide.png) icon to hide the track 
 
 <img src="/assets/inactive_collections_item.png" width="375" height="357" />
 
-Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
+Tap and hold any element or tap **Edit** button to delete selected elements or move them to another collection in bulk:
 
 <img src="/assets/collelctions_edit_mode.png" width="375" height="667" />
 
