@@ -115,7 +115,7 @@ To hide trip monitor panel from the map view, turn off this option.
 
 ### Show Coordinates {#showCoordinates}
 
-To enable the real-time display of coordinates on the map, turn on this option. If enabled, crosshairs will appear in the center of the map and coordinates for the crosshairs will be beneath the map scale bar in selected format as well as the current zoom level:
+To enable the real-time display of coordinates on the map, turn this option on. If enabled, “crosshairs” will appear in the map’s center with coordinates and zoom level in the selected format.
 
 <img src="/assets/show_coordinates.png" width="375" height="58" />
 
@@ -123,14 +123,13 @@ To enable the real-time display of coordinates on the map, turn on this option. 
 
 To make visible zoom control buttons on the map, turn this option on. If enabled, plus and minus zoom buttons will appear on the map:
 
-![](/assets/zoom_buttons.png)
 <img src="/assets/zoom_buttons.png" width="63" height="131" />
 
 ### Show Bookmark Name
 
 To make visible bookmark name on the map, turn this option on. If enabled, a bookmark will change its view and the name of a bookmark will appear:
 
-<img src="/assets/setting_show_bookmark_name.png" width="375" height="53" />
+<img src="/assets/bookmark_name_2.png" width="375" height="170" />
 
 
 ### Screen Auto-Lock {#screenAutoLock}
