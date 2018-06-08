@@ -260,6 +260,21 @@ To **filter GPS data** and delete inaccurate points in the already recorded trac
 
 **Note:** filters settings influence the appearance of track on a map and size of track while exporting, but they **do not** affect the number of recorded points.
 
+#### Accuracy Threshold 
+
+Filter by the minimum accuracy of the received points. Points that are on the outside of the filter value will not be displayed in the track.
+
+**Example**: You are recording your GPS track while walking around your neighborhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to hide GPS points if they are too far from your location. If the received signal has lower than the required accuracy, that points will not be displayed in the track.
+
+#### Distance Threshold 
+
+Filter by the minimum distance between points of a recorded track. Points that are closer than the distance specified in the filter will not be displayed in the track.
+
+**Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking and too many lines of a track will be drawn. You may enable the distance filter to hide GPS points if they are too close to each other and get rid of unnecessary lines.
+
+**Note:** you can change gradient to show speed or altitude during the route by tapping button in the upper right corner. The point on the track is related to the speed and altitude values.
+
+
 ## Collections {#collections}
 
 Collections are groups of bookmarks and GPS tracks, like folders on your desktop. Organising items into collections makes it easy to keep your travel itineraries separate from each other.
@@ -268,7 +283,7 @@ Collections are groups of bookmarks and GPS tracks, like folders on your desktop
 
 To open My Collections list, tap the ![](/assets/icon_my_collections.png) icon on the map. 
 
-To create a new collection, tap the + button at the bottom of the My Collections list. Enter details, then tap OK.
+To create a new collection, tap the ![](/assets/add_new_collection.png) button at the bottom of the My Collections list. Enter details, then tap OK.
 
 <img src="/assets/my_collections.png" width="375" height="667" />
 
