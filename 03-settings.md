@@ -247,27 +247,6 @@ If your device supporting SD Card memory extension and one of your storages beco
 
 <img src="/assets/maps_storage.png" width="375" height="233" />
 
-### GPS Filtering {#gpsFiltering}
-
-Galileo Offline Maps app supports GPS data filtering in Settings &gt; GPS Filtering.  
-
-#### Accuracy Threshold
-
-Filter by the minimum accuracy at which the new points will be accepted. New points will be added to GPS track while recording if the accuracy is lower than selected (recommended value is 150 m).
-
-<img src="/assets/accuracy_threshold.png" width="375" height="153" />
-
-**Example**: You are recording your GPS track while walking around your neighborhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to set the required accuracy and ignore inaccurate GPS data. If the received signal has lower than the required accuracy, that point will not be recorded in the track.
-
-#### Distance Threshold
-
-Filter by the minimum distance traveled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected (recommended value is 5 m).
-
-<img src="/assets/distance_threshold.png" width="375" height="152" />
-
-**Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking, and the recorded track will take up more space. You may enable the distance filter to ignore GPS points if they are too close to each other. New points will start recording as you exceed the distance selected in the filter.
-
-
 ### Units Format {#unitsFormat}
 
 To set the units system and coordinates format you would like to use within the Galileo Offline Maps, go to Settings &gt; Units Format. 
@@ -291,7 +270,6 @@ In Galileo Offline Maps you can choose to represent your coordinates in any way 
 * 18TWL 85577 09345 \(MGRS\)
 
 ## Help {#Help}
-
 
 #### Contact Us
 
