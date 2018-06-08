@@ -13,9 +13,8 @@ If search results are found, the search icon will be changed to the ![](/assets/
 
 **Note:** if you didn't clean your search query - search results will be displayed on a map as icons:
 
-<img src="/assets/search_query_1.png" width="375" height="667" />
- 
-<img src="/assets/search_query_2.png" width="375" height="667" />
+<img src="/assets/search_query_1.png" width="300" height="534" /> 
+<img src="/assets/search_query_2.png" width="300" height="534" />
 
 **Voice Search**: You can use your voice to perform a search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon to start dictating. When you’re finished, wait for your words to be processed. It can take a few seconds for text to appear.
 
