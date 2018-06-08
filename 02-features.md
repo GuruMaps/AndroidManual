@@ -19,14 +19,14 @@ If search results are found, the search icon will be changed to the ![](/assets/
 
 **Voice Search**: You can use your voice to perform a search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon to start dictating. When you’re finished, wait for your words to be processed. It can take a few seconds for text to appear.
 
-The search screen is separated into three parts:  
+The search screen is separated into three parts: 
+ 
 * Categories  
 * Search history  
 * Nearest bookmarks
 
 **Note**: offline search is possible within the downloaded offline maps and only places which are mapped at OpenStreetMap.org could be found.
 
-<img src="/assets/search_1.png" width="375" height="667" />
 
 ### Search by category
 
@@ -53,6 +53,22 @@ If you know the exact coordinates of a location, you can simply enter them into 
 <img src="/assets/search_5.png" width="375" height="193" />
 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
+
+### Address search
+
+Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search **online**:
+
+<img src="/assets/search_address_1.png" width="375" height="339" />
+
+To get routed to the selected search result, swipe right on the cell in the list:
+
+<img src="/assets/search_address_2.png" width="375" height="352" />
+
+To view more address and contact information, tap the desired result in the list.
+
+<img src="/assets/search_address_3.png" width="375" height="540" />
+
+To save search result to your collections, tap ![](/assets/icon_save_to_collections.png) icon at the bottom of details screen.
 
 
 ## Navigation {#navigation}
