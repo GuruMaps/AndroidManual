@@ -89,7 +89,7 @@ A map will appear with your driving route highlighted in blue with some route in
 * Arrival time
 * Time to go
 
-<img src="/assets/route_building.png" width="375" height="193" />
+<img src="/assets/route_building.png" width="375" height="816" />
 
 Route will be shown for **drive** mode by default, but you may choose the appropriate mode for your needs:
 
