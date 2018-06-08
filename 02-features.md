@@ -189,11 +189,16 @@ To **view bookmark details** tap the popup with ![](/assets/icon_info.png) butto
 
 To **edit bookmark name and description** tap the name or description field and use the onscreen keyboard to type a new text.
 
-To **change the bookmark icon** tap the Category field and select the icon you want from the list with available icons that will open, then tap Back.
+To **change the bookmark icon** tap the Category field and select the icon you want from the list with available icons that will open, then tap **Back**.
 
-To **move a bookmark to another collection** tap the field with the collection name and select the new name from the list of available collections, then tap Back.
+To **move a bookmark to another collection** tap the field with the collection name and select the new name from the list of available collections, then tap **Back**.
 
 To **copy coordinates**, tap the icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
+
+* **Copy as text** — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
+* **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of a selected bookmark to share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Galileo app.
+
+<img src="/assets/bookmark_detail.png" width="375" height="667" />
 
 To **edit coordinates**, tap the coordinates to start edit (X ,Y) GPS coordinates. 
 
