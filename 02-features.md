@@ -254,6 +254,12 @@ To **export a track** tap the ![](/assets/icon_share.png) icon at the bottom of 
 
 To **delete a track** tap the ![](/assets/icon_trash.png) icon at the bottom of the track details screen.
 
+To **filter GPS data** and delete inaccurate points in the already recorded track, tap _GPS Filtering_:
+
+<img src="/assets/track_gradient.png" width="375" height="667" />
+
+**Note:** filters settings influence the appearance of track on a map and size of track while exporting, but they **do not** affect the number of recorded points.
+
 ## Collections {#collections}
 
 Collections are groups of bookmarks and GPS tracks, like folders on your desktop. Organising items into collections makes it easy to keep your travel itineraries separate from each other.
