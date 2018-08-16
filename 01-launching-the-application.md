@@ -34,13 +34,20 @@ If you use Galileo feature, that requires permission to read/write on your devic
 
 ## Download a Map {#DownloadAMap}
 
-When you allow the app to use your location, the app will ask you to download the map for your region when launching the app for the first time:
+When you allow the Galileo to use your location, the App will ask you to download the map for your region when launching it for the first time:
 
-<img src="/assets/download_map_1.png" width="375" height="144" />
+<img src="/assets/download_map_1.png" width="375" height="286" />
 
-Other regions will be available for download while browsing and zooming directly on the map or from the app settings at [Download Maps](03-settings.md#downloadMaps) menu:
+* Download map - only an offline map will be downloaded
 
-<img src="/assets/download_map_2.png" width="375" height="168" />
+* Map with navigation data - in addition to a map navigation data will be downloaded as well (**required for an offline navigation**)
+
+**Note:** after installation the size of map with navigation data will be more than during download (for example, the map of England with navigation data after installation will occupy 1759MB).
+
+Other regions will be available for download while browsing and zooming directly on the map or from the app settings at **Download Maps** menu.
+
+<img src="/assets/download_map_2.png" width="342" height="137" />
+
 
 
 ## Navigating a Map {#navigatingTheMap}
@@ -60,7 +67,7 @@ To **zoom out**, tap with two fingers or pinch your thumb and finger together:
 
 To **zoom in/out with only one finger**, double-tap the map, hold the second tap and drag your finger up or down.
 
-To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](02-settings.md#showZoomButtons) to enable them. 
+To **zoom using on-map +/- buttons**, go to the app setting [Show Zoom Buttons](/03-settings.md#appearance) to enable them. 
 
 To **rotate the map**, hold the map with two fingers and drag them simultaneously in a circular motion. A compass icon will appear which you can tap to return the map to north-up:
 
@@ -74,13 +81,11 @@ Tap the map and hold to bring up the pop-up with available options \(from left t
 
 <img src="/assets/map_popup.png" width="281" height="101" />
 
-To [measure the distance](02-features.md#measuringDistance) between two points as the crow flies, tap your starting and destination points with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed.  
+To measure the straight line distance between two points “as the crow flies”, tap your starting and destination points simultaneously with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed: 
 
 <img src="/assets/measuring_distance.png" width="375" height="88" />
 
 ## Interface Overview {#interfaceOverview}
-
-> This section will provide you information about basic usage and interactions in Galileo.
 
 ### Application Modes {#applicationModes}
 
@@ -89,7 +94,6 @@ To [measure the distance](02-features.md#measuringDistance) between two points a
 The app works in multiple modes depending on a number of taps on _Location_ button with the following sign ![](/assets/icon_gps.png). Your position is shown on the map as a blue marker when you are staying and as a blue arrow when you are moving:
 
 <img src="/assets/map_location.png" width="250" height="250" /> <img src="/assets/map_driving.png" width="250" height="250" />
-
 
 **Tip:** if your location cannot be determined precisely, a blue circle also appears around the location marker. The size of the circle depends on how accurately your location can be determined: the smaller the circle – the greater the accuracy.
 
@@ -109,7 +113,7 @@ To enable the **driving mode**, double tap the _Location_ button:
 
 While in driving mode, the app will orient the map in the direction you are currently moving. If you stop moving, the map will be oriented to the north.
 
-Note: the accuracy of the compass can be affected by magnetic or environmental interference \(e.g. the magnets in earbuds\) and compass may need to be calibrated from time to time. When the device displays the calibration alert, tilt the screen to move the red ball around in a circle.
+**Note**: the accuracy of the compass can be affected by magnetic or environmental interference \(e.g. the magnets in earbuds\) and compass may need to be calibrated from time to time. When the device displays the calibration alert, tilt the screen to move the red ball around in a circle.
 
 #### Location services {#locationServices}
 
@@ -119,7 +123,7 @@ Every time you see this icon ![](/assets/icon_question.png), it means that your 
 
 ## Trip Computer {#tripComputer}
 
-Trip monitor panel provides you all the necessary trip statistics while moving. If enabled, it will display such useful information as \(from left to right\):
+The trip computer panel provides you all the necessary trip statistics while moving. If enabled, it will display such useful information as \(from left to right\):
 
 <img src="/assets/trip_monitor_1.png" width="375" height="56" />
 
@@ -133,5 +137,5 @@ While recording a GPS track it will additionally display \(from left to right\):
 * distance traveled
 * trip duration
 
-To hide trip monitor panel from map view, go to app Settings &gt; Show Trip Computer.
+To hide the trip computer panel from map view, go to app Settings &gt; Show Trip Computer.
 

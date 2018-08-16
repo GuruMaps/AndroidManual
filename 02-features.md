@@ -25,7 +25,14 @@ The search screen is separated into three parts:
 * Search history  
 * Nearest bookmarks
 
-**Note**: offline search is possible within the downloaded offline maps and only places which are mapped at OpenStreetMap.org could be found.
+**Note**: The App makes searching within the downloaded offline maps and only places which are mapped within OpenStreetMap can be found and displayed.
+
+Performing a search in the following ways allows you to search places fast and easy:
+
+* by categories,  
+* by name,
+* by GPS coordinates,
+* by address (**internet connection required**).
 
 
 ### Search by category
@@ -44,7 +51,7 @@ Just start typing the name of the object you are looking for. As you type, you'l
 
 <img src="/assets/search_4.png" width="375" height="401" />
 
-Tip: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling:
+**Tip**: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
 
 ### Coordinates search
 
@@ -52,7 +59,7 @@ If you know the exact coordinates of a location, you can simply enter them into 
 
 <img src="/assets/search_5.png" width="375" height="193" />
 
-**Tip**: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
+**Tip**: You may enter the coordinates in any of the supported coordinate formats. To avoid confusion while inputting coordinates from the keyboard it is possible to use spaces instead of \(‘\) Right Single Quotation Mark, \(”\) Right Double Quotation Mark or \(°\) Degree Sign.
 
 ### Address search
 
@@ -73,7 +80,10 @@ To save search result to your collections, tap ![](/assets/icon_save_to_collecti
 
 ## Navigation {#navigation}
 
-Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk (**internet connection required**).
+Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk.
+
+**Note:** to build a route offline you need to download navigation data first.
+
 
 ### Create route
 
@@ -103,7 +113,7 @@ If you choose cycle or hiking a gradient will appear which shows an altitude dur
 
 To begin navigation, tap ![](/assets/play_icon.png) icon. 
 To stop your route, tap ![](/assets/pause_button.png) icon, then Stop movement option from a menu.
-If you miss a turn or intentionally go the wrong way from the planned route, the app will automatically recalculate the route (**internet connection required**).
+If you miss a turn or intentionally go the wrong way from the planned route, the app will automatically recalculate the route.
 
 ### Edit route
 
@@ -121,7 +131,7 @@ To edit or delete the waypoint, just tap it on the map to bring up the pop-up me
 
 ### Voice instructions
 
-When you’re navigating to a place, you can hear voice directions. You can stop receiving directions at any time while in navigation mode by tapping sound icon ![](/assets/sound_icon.png)
+When you’re navigating to a place, you can hear navigation directions. You can stop receiving directions at any time while in navigation mode by tapping the sound icon ![](/assets/sound_icon.png).
 
 A long tap on the sound icon allows choosing one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the navigation instructions in the app Settings &gt; Navigation.
 
@@ -151,6 +161,11 @@ In case you have a web link to the KML/KMZ/GPX file:
 * Select "Galileo" option to initiate the import process.
 
 <img src="/assets/import_2.png" width="374" height="298" />
+
+**Note**: There is also an option to import multiple folders from a single KML file separately or merge them into one collection available:
+
+* Keep several collections
+* Save to one collection
 
 ## Exporting Geodata {#exporting}
 
@@ -198,7 +213,7 @@ To **change the bookmark icon** tap the Category field and select the icon you w
 
 To **move a bookmark to another collection** tap the field with the collection name and select the new name from the list of available collections, then tap **Back**.
 
-To **copy coordinates**, tap the icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
+To **copy coordinates**, tap the ![](/assets/icon_copy.png) icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
 
 * **Copy as text** — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
 * **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of a selected bookmark to share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Galileo app.
@@ -228,7 +243,7 @@ Galileo Offline Maps lets you record your movements, view detailed statistics an
 
 #### Record GPS Track
 
-Tap the **REC** button on the screen with the map. It will become red. If you recorded track before, you will be suggested to continue the last track recording, or to start the new one. Tap the **REC** button again and the recording stops:
+To **record GPS Track**, tap the **REC** button on the map. It will become red. If you recorded track before, you will be prompted to continue the last track recording, or to start a new one. Tap the **REC** button again and the recording stops.
 
 * ![](/assets/icon_rec_disabled.png) — track is not recording,
 * ![](/assets/icon_rec_enabled.png) — track is recording now.
@@ -286,15 +301,15 @@ Collections are groups of bookmarks and GPS tracks, like folders on your desktop
 
 ### My Collections List
 
-To open My Collections list, tap the ![](/assets/icon_my_collections.png) icon on the map. 
+To **open My Collections list**, tap the ![](/assets/icon_my_collections.png) icon on the map. 
 
-To create a new collection, tap the ![](/assets/add_new_collection.png) button at the bottom of the My Collections list. Enter details, then tap OK.
+To **create a new collection**, tap the ![](/assets/add_new_collection.png) button at the bottom of the My Collections list. Enter details, then tap OK.
 
 <img src="/assets/my_collections.png" width="375" height="667" />
 
-To view a set of bookmarks and GPS track within the collection, tap the collection name in a list. 
+To **view a set of bookmarks and GPS tracks** within the collection, tap the collection name in a list. 
 
-You can easily sort collections and its content by date created, distance and file name in the list:
+You can easily **sort collections** and its content by date created, distance and file name in the list:
 				 							
 * Recent — the most recently created items go first,
 * Nearest — collections, containing locations that are the closest to your current location, are listed at the top,
@@ -313,6 +328,8 @@ Tap and hold any element or tap **Edit** button to delete selected elements or m
 <img src="/assets/collelctions_edit_mode.png" width="375" height="667" />
 
 ### Collections Details
+
+<img src="/assets/collection_detail.png" width="375" height="667" />
 
 To **view collection details** tap ![](/assets/icon_info.png) icon next to the name in the My Collections list.
 
