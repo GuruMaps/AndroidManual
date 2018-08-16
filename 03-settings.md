@@ -13,6 +13,7 @@ Vector maps are detailed, smooth, fast and provide high-quality image rendered i
 
 **Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on a computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection. However, any personal raster/tile maps will use considerably more space than vector maps you may install.
 
+Read also: [Offline Maps Import](/04-tips-and-tricks-and-troubleshooting.md)
 	 						 						
 ### Online maps
 						
@@ -32,7 +33,7 @@ Read also: [Cache Info](/03-settings.md#cacheInfo).
 						 						
 **Note**: map download speed can vary while using online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
 
-In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains a description of map provider.
+In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any source you like using a special XML file that contains a description of map provider.
 
 Read also: [Custom Map Sources](/04-tips-and-tricks-and-troubleshooting.md#customMapSources).
 
@@ -41,8 +42,6 @@ Read also: [Custom Map Sources](/04-tips-and-tricks-and-troubleshooting.md#custo
 You can add more online map sources to Galileo here: https://ms.galileo-app.com/
 
 ## Vector Maps Settings {#vectorMapsSettings}
-
-This section describes the vector maps related settings within the app.
 
 ### Download Maps
 
@@ -56,13 +55,13 @@ To **download a map of the selected country** tap the country name in Available 
 
 * To **pause a download**, tap the cell with the country name tap it again to resume a download,
 * To **go to downloaded map** tap the ![](/assets/icon_show_on_map.png) button,
-* To **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the Edit button.
+* To **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the **Edit** button.
 
 As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for a downloaded map, you will see **Update** button near the downloaded map name:
 
 <img src="/assets/update_downloaded_map.png" width="375" height="93" />
 
-To **update all your downloaded maps** tap the “Update All” button in toolbar menu:
+To **update all your downloaded maps** tap the **“Update All”** button in toolbar menu:
 
 <img src="/assets/update_all_button.png" width="375" height="139" />
 
@@ -75,7 +74,7 @@ You can configure Galileo to display all text on a vector map at a comfortable f
 
 #### Preferred language order
 
-In some regions, objects on the map in addition to local names have names in other languages. A map will show the names on the first language in this list if exists. It may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
+In some regions, objects on the map in addition to local names have names in other languages. A map will show the names on the first language in this list if exists. It may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status:
 
 <img src="/assets/fonts_and_language.png" width="375" height="486" />
 
@@ -113,6 +112,8 @@ The following group of settings is used to configure how the main map looks:
  
 To hide trip monitor panel from the map view, turn off this option.
 
+Read also: [Trip Computer](01-launching-the-application.md#tripComputer)
+
 ### Show Coordinates {#showCoordinates}
 
 To enable the real-time display of coordinates on the map, turn this option on. If enabled, “crosshairs” will appear in the map’s center with coordinates and zoom level in the selected format.
@@ -127,7 +128,7 @@ To make visible zoom control buttons on the map, turn this option on. If enabled
 
 ### Show Bookmark Name
 
-To make visible bookmark name on the map, turn this option on. If enabled, a bookmark will change its view and the name of a bookmark will appear:
+To display a bookmark name on the map, turn this option on. The bookmark view will change and the name of the bookmark will appear. The bookmark name can be changed to your preference:
 
 <img src="/assets/bookmark_name_2.png" width="375" height="170" />
 
@@ -184,13 +185,32 @@ To enable synchronization feature, go to the app Settings > Sync and select the 
 
 ### Navigation {#navigation}
 
-The default language of voice instructions you hear while navigating a route depends on the language your device is set to use. 
+#### Navigation Mode
+
+Select the mode in which the route will be built.
+
+* Online - internet connection required to build a route:
+
+<img src="/assets/settings_navigation_1.png" width="375" height="173" />
+
+* Online First - if there's no internet connection, the rout will be build using an offline navigation data (**downloaded navigation data required**):
+
+<img src="/assets/settings_navigation_2.png" width="375" height="222" />
+
+* Offline -  no internet connection required to build a route (**downloaded navigation data required**):
+
+<img src="/assets/settings_navigation_3.png" width="375" height="222" />
+
+**Note:** to download a map with navigation data you need to use "Online First" or "Offline" mode.
+
+#### Voice Instructions
+
+The default language for voice instructions you hear while navigating a route depends on the language your device is set to use.  
 To change the language, select one from the Voice Instructions list:
 
+**Note**: as the App uses text-to-speech \(TTS\) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
+
 <img src="/assets/settings_navigation_language.png" width="375" height="414" />
-
-**Note**: as the app use text-to-speech (TTS) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
-
 
 ### Data Backup {#dataBackup}
 
@@ -199,7 +219,8 @@ Backing up data is a great way to minimize accidental data loss and restore the 
 #### Create backup
 
 Tap Back Up My Collections button on Settings &gt; Data Backup screen to backup the collections within the app.  
-**Note**: created backup only includes data from My Collections \(bookmarks and GPS tracks\), and it doesn't include downloaded and cached tiles.  
+
+**Note**: created backup only includes data from My Collections (bookmarks and GPS tracks), and it doesn't include downloaded and cached tiles.  
 When the backup finished successfully, you'll see the name of the device along with the date and time the backup was created:
 
 <img src="/assets/backup.png" width="375" height="53" />
@@ -216,7 +237,7 @@ You can use cloud services (Dropbox, OneDrive, Adobe Creative Cloud, Google Driv
 
 There are several ways to restore your data from a backup:
 
-* Select .gbackup file from any file manager installed and choose Galileo:
+* Select .gbackup2 file from any file manager installed and choose Galileo:
 
 <img src="/assets/open_backup_file_manager.png" width="375" height="473" />
 
@@ -224,7 +245,7 @@ There are several ways to restore your data from a backup:
 
 <img src="/assets/open_backup_dropbox.png" width="322" height="233" />
 
-* Move .gbackup file to Internal Storage &gt; Galileo\_backups folder. All .gbackup files from this directory will be listed in Galileo. Go to Settings &gt; Data Backup and tap preferred backup.
+* Move .gbackup2 file to Internal Storage &gt; Galileo\_backups folder. All .gbackup2 files from this directory will be listed in Galileo. Go to Settings &gt; Data Backup and tap preferred backup.
 
 **Note**: restoring from backup will remove all current bookmarks and GPS tracks in My Collections.
 
