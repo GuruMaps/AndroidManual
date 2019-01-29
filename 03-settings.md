@@ -1,8 +1,8 @@
 # Settings
 
-> Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as an optional and more advanced way of using the app. Settings let you configure app options, purchase additional features and manage geo data representation.
+> Guru Maps is available in a ready-to-use state and app settings should be considered as an optional and more advanced way of using the app. Settings let you configure app options, purchase additional features and manage geo data representation.
 
-## Map Source {#MapSource}
+## Map Source {#MapSources}
 
 To switch to another map to display, select **Map Source** menu in app settings. There are two types of maps you can use within the app: offline and online maps.
 
@@ -16,7 +16,7 @@ Vector maps are detailed, smooth, fast and provide high-quality image rendered i
 Read also: [Offline Maps Import](/04-tips-and-tricks-and-troubleshooting.md)
 	 						 						
 ### Online maps
-						
+
 There is a list of built-in raster map sources available online:
 				 						
 * HikeBikeMap
@@ -33,44 +33,24 @@ Read also: [Cache Info](/03-settings.md#cacheInfo).
 						 						
 **Note**: map download speed can vary while using online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
 
-In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any source you like using a special XML file that contains a description of map provider.
+In addition to built-in online raster maps, Guru Maps also supports custom online maps. You can add any source you like using a special XML file that contains a description of map provider.
 
 Read also: [Custom Map Sources](/04-tips-and-tricks-and-troubleshooting.md#customMapSources).
 
 ### Additional source
 
-You can add more online map sources to Galileo here: https://ms.galileo-app.com/
+You can add more online map sources to Guru Maps here: 
+* https://ms.galileo-app.com/
+* https://custom-map-source.appspot.com
+
 
 ## Vector Maps Settings {#vectorMapsSettings}
-
-### Download Maps
-
-Vector maps are available and free for download within the app:
- 
-<img src="/assets/download_maps.png" width="375" height="418" />
-
-To **download a map of the selected country** tap the country name in Available Maps list:
-
-<img src="/assets/item_map_to_download.png" width="375" height="51" />
-
-* To **pause a download**, tap the cell with the country name tap it again to resume a download,
-* To **go to downloaded map** tap the ![](/assets/icon_show_on_map.png) button,
-* To **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the **Edit** button.
-
-As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for a downloaded map, you will see **Update** button near the downloaded map name:
-
-<img src="/assets/update_downloaded_map.png" width="375" height="93" />
-
-To **update all your downloaded maps** tap the **“Update All”** button in toolbar menu:
-
-<img src="/assets/update_all_button.png" width="375" height="139" />
-
 
 ### Font and Languages {#fontsAndLanguages}
 
 #### Font size 
 
-You can configure Galileo to display all text on a vector map at a comfortable font size. To increase, decrease, or change the default font size, go to app Settings > Font and Languages.
+You can configure Guru Maps to display all text on a vector map at a comfortable font size. To increase, decrease, or change the default font size, go to app Settings > Font and Languages.
 
 #### Preferred language order
 
@@ -99,6 +79,18 @@ In addition to the basic appearance settings, you can select the objects you wis
 * Public transport stops
 * Train and metro stations
 * Building names and numbers
+
+### Online Maps Settings {#cacheInfo}
+
+#### Map Refresh
+
+To set how often to refresh cached map tiles, go to Settings &gt; Cache Info. All tiles older than selected time will be downloaded while browsing online.
+
+<img src="/assets/cache_info.png" width="375" height="403" />
+
+#### Cache Info
+
+All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space.
 
 
 ## Appearance Settings {#appearance}
@@ -136,7 +128,7 @@ To display a bookmark name on the map, turn this option on. The bookmark view wi
 ### Screen Auto-Lock {#screenAutoLock}
 
 The screen of your device will be turned off automatically after a specified period of time to save on power.
-Turn this option off if you want your device not to lock the screen while using the Galileo app.
+Turn this option off if you want your device not to lock the screen while using the Guru Maps app.
 
 
 ## Default Settings {#defaultStyles}
@@ -171,33 +163,47 @@ Selected category is a default icon for newly created and imported bookmarks:
 
 <img src="/assets/default_styles.png" width="375" height="416" />
 
-## Advanced Settings {#advanced}
 
-### Synchronization {#sync}
+### Units Format {#unitsFormat}
 
-Galileo Offline Maps allows you to synchronize all your data to make your collections visible and available through all your devices using your Facebook or Google account.
+To set the units system and coordinates format you would like to use within the Guru Maps, go to Settings &gt; Units Format. 
+ 
+#### Units system
 
-App uses Facebook/Google login only for authentication, this does not let the Galileo post or share your data.
+The following units of measure for distance and speed are available to select from:
 
-To enable synchronization feature, go to the app Settings > Sync and select the appropriate way to authenticate.
+* **km** — for kilometres & km/h,
+* **mi** — for miles & mph,
+* **NM** — for nautical miles & kts.
 
-<img src="/assets/sync.png" width="375" height="402" />
+#### Coordinates format
 
-### Navigation {#navigation}
+In Guru Maps you can choose to represent your coordinates in any way you like. The coordinate format you select will be used to display all coordinates within the app. Here is an example of different coordinate formats for New York city follows:
+
+* +40.730598, -73.986580 \(DDD.DDDDD\)
+* 40°43'50.1" N, 73°59'11.6" W \(DDD°MM' SS.S"\)
+* 40°43.835' N, 73°59.194' W \(DDD°MM.MMM’\)
+* 40.73060° N, 73.98658° W \(DDD.DDDDD°\)
+* 18TWL 85577 09345 \(MGRS\)
+
+
+<img src="/assets/maps_storage.png" width="375" height="233" />
+
+## Navigation Settings {#navigationSettings}
 
 #### Navigation Mode
 
 Select the mode in which the route will be built.
 
-* Online - internet connection required to build a route:
+* **Online** - internet connection required to build a route:
 
 <img src="/assets/settings_navigation_1.png" width="375" height="173" />
 
-* Online First - if there's no internet connection, the rout will be build using an offline navigation data (**downloaded navigation data required**):
+* **Online First** - if there's no internet connection, the rout will be build using an offline navigation data (downloaded navigation data required):
 
 <img src="/assets/settings_navigation_2.png" width="375" height="222" />
 
-* Offline -  no internet connection required to build a route (**downloaded navigation data required**):
+* **Offline** -  no internet connection required to build a route (downloaded navigation data required):
 
 <img src="/assets/settings_navigation_3.png" width="375" height="222" />
 
@@ -212,7 +218,20 @@ To change the language, select one from the Voice Instructions list:
 
 <img src="/assets/settings_navigation_language.png" width="375" height="414" />
 
-### Data Backup {#dataBackup}
+
+## Synchronization {#sync}
+
+Guru Maps allows you to synchronize all your data to make your collections visible and available through all your devices using your Facebook or Google account.
+
+App uses Facebook/Google login only for authentication, this does not let the Guru Maps post or share your data.
+
+To enable synchronization feature, go to the app Settings > Sync and select the appropriate way to authenticate.
+
+<img src="/assets/sync.png" width="375" height="402" />
+
+
+
+## Data Backup {#dataBackup}
 
 Backing up data is a great way to minimize accidental data loss and restore the most important geodata on your device.
 
@@ -237,62 +256,21 @@ You can use cloud services (Dropbox, OneDrive, Adobe Creative Cloud, Google Driv
 
 There are several ways to restore your data from a backup:
 
-* Select .gbackup2 file from any file manager installed and choose Galileo:
+* Select .gbackup2 file from any file manager installed and choose Guru Maps:
 
 <img src="/assets/open_backup_file_manager.png" width="375" height="473" />
 
-* Select item from your cloud service \(e.g. in Dropbox app\) and choose Galileo:
+* Select item from your cloud service \(e.g. in Dropbox app\) and choose Guru Maps
 
 <img src="/assets/open_backup_dropbox.png" width="322" height="233" />
 
-* Move .gbackup2 file to Internal Storage &gt; Galileo\_backups folder. All .gbackup2 files from this directory will be listed in Galileo. Go to Settings &gt; Data Backup and tap preferred backup.
+* Move .gbackup2 file to Internal Storage &gt; Guru\_backups folder. All .gbackup2 files from this directory will be listed in Guru Maps. Go to Settings &gt; Data Backup and tap preferred backup.
 
 **Note**: restoring from backup will remove all current bookmarks and GPS tracks in My Collections.
 
-### Cache info {#cacheInfo}
 
-#### Map Refresh
+## Maps Storage {#mapsStorage}
 
-To set how often to refresh cached map tiles, go to Settings &gt; Cache Info. All tiles older than selected time will be downloaded while browsing online.
-
-<img src="/assets/cache_info.png" width="375" height="403" />
-
-#### Cache Info
-
-All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space.
-
-
-### Maps Storage {#mapsStorage}
-
-If your device supporting SD Card memory extension and one of your storages become insufficient you can change default Map Download Storage in Settings &gt; Maps Storage. After selecting one of the available storages all downloaded Maps will be moved to selected one. Maps will be downloaded on the storage with the largest amount of free space by default. If you don’t see Maps Storage Settings your device might not support SD Card memory extension or SD Card is not present.
-
-<img src="/assets/maps_storage.png" width="375" height="233" />
-
-### Units Format {#unitsFormat}
-
-To set the units system and coordinates format you would like to use within the Galileo Offline Maps, go to Settings &gt; Units Format. 
- 
-#### Units system
-
-The following units of measure for distance and speed are available to select from:
-
-* **km** — for kilometres & km/h,
-* **mi** — for miles & mph,
-* **NM** — for nautical miles & kts.
-
-#### Coordinates format
-
-In Galileo Offline Maps you can choose to represent your coordinates in any way you like. The coordinate format you select will be used to display all coordinates within the app. Here is an example of different coordinate formats for New York city follows:
-
-* +40.730598, -73.986580 \(DDD.DDDDD\)
-* 40°43'50.1" N, 73°59'11.6" W \(DDD°MM' SS.S"\)
-* 40°43.835' N, 73°59.194' W \(DDD°MM.MMM’\)
-* 40.73060° N, 73.98658° W \(DDD.DDDDD°\)
-* 18TWL 85577 09345 \(MGRS\)
-
-## Help {#Help}
-
-#### Contact Us
-
-If you have faced a problem - here you can contact Support via email (**internet connection required**).
+If your device supporting SD Card memory extension and one of your storages become insufficient you can change default Map Download Storage in Settings &gt; Maps Storage. 
+After selecting one of the available storages all downloaded Maps will be moved to selected one. Maps will be downloaded on the storage with the largest amount of free space by default. If you don’t see Maps Storage Settings your device might not support SD Card memory extension or SD Card is not present.
 

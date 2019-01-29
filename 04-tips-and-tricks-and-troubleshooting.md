@@ -4,7 +4,7 @@
 
 ## Custom Map Sources {#customMapSources}
 
-In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains a description of map provider.
+In addition to built-in online raster maps, Guru Maps also supports custom online maps. You can add any map source you like using a special XML file that contains a description of map provider.
 
 ### Simple custom map sources {#simpleCustomMapSources}
 
@@ -65,7 +65,7 @@ The most important tags of this definition are described below:
 
 There are several ways to add custom online map source to the app:
 1. Place the XML file in the app shared folder.
-2. Open the XML file attached in Email on your device using the "Open in Galileo" option.
+2. Open the XML file attached in Email on your device using the "Open in Guru Maps" option.
 3. Open the XML file from Dropbox on your device using the "Open in.." option.
 	
 As a result, the new map source will appear in Map Source list.
@@ -88,11 +88,11 @@ The main idea is to create an offline map for the desired area in advance with o
 * [TileMill](https://tilemill-project.github.io/tilemill/)
 * [SAS.Planet](http://sasgis.ru/sasplaneta/)
 
-_Mobile Atlas Creator (MOBAC)_ – is free software that allows you to download maps from numerous map sources, and save them in the .sqlitedb format used by Galileo Offline Maps. This tool is compatible with Windows, Mac OS X and Linux.
+_Mobile Atlas Creator (MOBAC)_ – is free software that allows you to download maps from numerous map sources, and save them in the .sqlitedb format used by Guru Maps. This tool is compatible with Windows, Mac OS X and Linux.
 
 Reference: to learn how to create offline maps in **.sqlitedb** format, please refer to the [MOBAC manual](http://mobac.sourceforge.net/quickstart/).
 				
-_TileMill (by MapBox)_ – is a desktop application for cartographers to quickly and easily design and create stunning offline maps in the .mbtiles format supported by Galileo Offline Maps. It is completely compatible with Mac OS X, Windows and Ubuntu.
+_TileMill (by MapBox)_ – is a desktop application for cartographers to quickly and easily design and create stunning offline maps in the .mbtiles format supported by Guru Maps. It is completely compatible with Mac OS X, Windows and Ubuntu.
 
 Reference: to learn how to create offline maps in **.mbtiles** format, please refer to the [TileMill manual](https://tilemill-project.github.io/tilemill/docs/manual/).
 					
@@ -125,4 +125,4 @@ Here’s what you need to do to solve the problem:
 * Hold the GPS icon to reach GPS settings.
 * Here, change Location mode to High accuracy
 
-To make sure the app isn’t killed while in background go to Settings  > Battery & performance > Manage app battery usage, now disable/turn off Power saving mode or add Galileo to battery saver exceptions, by clicking Choose apps > Galileo > No restrictions.
+To make sure the app isn’t killed while in background go to Settings  > Battery & performance > Manage app battery usage, now disable/turn off Power saving mode or add Guru Maps to battery saver exceptions, by clicking Choose apps > Guru Maps > No restrictions.

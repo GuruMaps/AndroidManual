@@ -1,6 +1,28 @@
 # Features
 
-In this article we will show some distinguishing features, that will make your Galileo experience easier and more complete.
+In this article we will show some distinguishing features, that will make your Guru Maps experience easier and more complete.
+
+### Download Maps {#download}
+
+Vector maps are available and free for download within the app:
+ 
+<img src="/assets/download_maps.png" width="375" height="418" />
+
+To **download a map of the selected country** tap the country name in Available Maps list:
+
+<img src="/assets/item_map_to_download.png" width="375" height="51" />
+
+* To **pause a download**, tap the cell with the country name tap it again to resume a download,
+* To **go to downloaded map** tap the ![](/assets/icon_show_on_map.png) button,
+* To **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the **Edit** button.
+
+As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Guru Maps app all vector map updates are free and distributed automatically. If there is an update for a downloaded map, you will see **Update** button near the downloaded map name:
+
+<img src="/assets/update_downloaded_map.png" width="375" height="93" />
+
+To **update all your downloaded maps** tap the **“Update All”** button in toolbar menu:
+
+<img src="/assets/update_all_button.png" width="375" height="139" />
 
 ## Search {#search}
 
@@ -9,7 +31,8 @@ To open the search screen, tap the ![](/assets/icon_serach.png) search button. T
 Search results will be displayed on the map and in the list below the search field. It is also possible to narrow down your search using the **“Search around me”** option at the bottom.  
 
 Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed in the visible area.
-If search results are found, the search icon will be changed to the ![](/assets/icon_search_results.png). To reset search results, tap the clear ![](/assets/icon_cross.png) icon.  
+If search results are found, the search icon will be changed to the ![](/assets/icon_search_results.png).
+To reset search results, tap the clear ![](/assets/icon_cross.png) icon.  
 
 **Note:** if you didn't clean your search query - search results will be displayed on a map as icons:
 
@@ -80,7 +103,7 @@ To save search result to your collections, tap ![](/assets/icon_save_to_collecti
 
 ## Navigation {#navigation}
 
-Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk.
+Guru Maps gives you the ability to find the best route and get step by step directions for your drive or walk.
 
 **Note:** to build a route offline you need to download navigation data first.
 
@@ -142,23 +165,23 @@ You can easily import KML/KMZ/GPX files to view them on the map in several ways 
 
 #### Email
 
-If you have a KML/KMZ/GPX file that someone shared with you via email, you can view it in the Galileo app:
+If you have a KML/KMZ/GPX file that someone shared with you via email, you can view it in the Guru Maps app:
 	
 * Open the message containing the KML/KMZ/GPX file as an attachment.
 * Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
-* Choose the "Open with Galileo" option to initiate the file import process.
+* Choose the "Open with Guru Maps" option to initiate the file import process.
 
 <img src="/assets/import_1.png" width="375" height="479" />
 
 #### File Manager/Dropbox
 
-If you saved KML/KMZ/GPX file on your device storage or inserted SD Card with some KML/KMZ/GPX files, you can add it to your Collections in Galileo by clicking on them from any of installed file managers on your device.
+If you saved KML/KMZ/GPX file on your device storage or inserted SD Card with some KML/KMZ/GPX files, you can add it to your Collections in Guru Maps by clicking on them from any of installed file managers on your device.
 
 #### URL
 In case you have a web link to the KML/KMZ/GPX file:  
 
 * Tap the link to open it in your browser.  
-* Select "Galileo" option to initiate the import process.
+* Select "Guru Maps" option to initiate the import process.
 
 <img src="/assets/import_2.png" width="374" height="298" />
 
@@ -169,11 +192,11 @@ In case you have a web link to the KML/KMZ/GPX file:
 
 ## Exporting Geodata {#exporting}
 
-Galileo allows you to export any of you geodata (bookmarks, tracks or whole collections) to files compatible with many other apps in several ways: 
+Guru Maps allows you to export any of you geodata (bookmarks, tracks or whole collections) to files compatible with many other apps in several ways: 
 
 #### Share Collections/Tracks/Bookmarks
 
-Galileo supports File Sharing option that allows you to share your data:  
+Guru Maps supports File Sharing option that allows you to share your data:  
 
 * Tap the ![](/assets/icon_share.png) icon on details screen.  
 * Tap "Save as KML", "Save as GPX", "Share URL" button.
@@ -192,7 +215,7 @@ Touch and hold on the map until the pop-up appears, then tap the Bookmark icon:
 
 <img src="/assets/map_popup.png" width="281" height="101" />
 
-If you have coordinates in your clipboard Galileo cam import them for you:
+If you have coordinates in your clipboard Guru Maps can import them for you:
 
 <img src="/assets/bookmark_clipboad.png" width="375" height="188" />
 
@@ -216,7 +239,7 @@ To **move a bookmark to another collection** tap the field with the collection n
 To **copy coordinates**, tap the ![](/assets/icon_copy.png) icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
 
 * **Copy as text** — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
-* **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of a selected bookmark to share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Galileo app.
+* **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of a selected bookmark to share it by Email or SMS \(guru://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Guru Maps app.
 
 <img src="/assets/bookmark_detail.png" width="375" height="667" />
 
@@ -239,7 +262,7 @@ To **delete a bookmark**, tap ![](/assets/icon_trash.png) icon at the bottom of 
 
 ## GPS Tracks {#GPSTracks}
 
-Galileo Offline Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats.
+Guru Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats.
 
 #### Record GPS Track
 
