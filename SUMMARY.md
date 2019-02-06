@@ -24,7 +24,7 @@
   * [Vector Maps Settings](03-settings.md#vectorMapsSettings)
   * [Online Maps Settings](03-settings.md#cacheInfo) 
   * [Appearance Settings](03-settings.md#appearance)
-  * [Default Settings](03-settings.md#defaultSyles)
+  * [Default Settings](03-settings.md#defaultStyles)
   * [Units Format](03-settings.md#unitsFormat)
   * [Navigation Settings](03-settings.md#navigationSettings)
   * [Synchronization](03-settings.md#sync) 

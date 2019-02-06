@@ -258,11 +258,9 @@ There are several ways to restore your data from a backup:
 
 * Select .gbackup2 file from any file manager installed and choose Guru Maps:
 
-<img src="/assets/open_backup_file_manager.png" width="375" height="473" />
-
 * Select item from your cloud service \(e.g. in Dropbox app\) and choose Guru Maps
 
-<img src="/assets/open_backup_dropbox.png" width="322" height="233" />
+<img src="/assets/open_backup.png" width="322" />
 
 * Move .gbackup2 file to Internal Storage &gt; Guru\_backups folder. All .gbackup2 files from this directory will be listed in Guru Maps. Go to Settings &gt; Data Backup and tap preferred backup.
 

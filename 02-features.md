@@ -171,7 +171,7 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 * Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
 * Choose the "Open with Guru Maps" option to initiate the file import process.
 
-<img src="/assets/import_1.png" width="375" height="479" />
+<img src="/assets/import_1.png" width="375" />
 
 #### File Manager/Dropbox
 
@@ -183,7 +183,6 @@ In case you have a web link to the KML/KMZ/GPX file:
 * Tap the link to open it in your browser.  
 * Select "Guru Maps" option to initiate the import process.
 
-<img src="/assets/import_2.png" width="374" height="298" />
 
 **Note**: There is also an option to import multiple folders from a single KML file separately or merge them into one collection available:
 
