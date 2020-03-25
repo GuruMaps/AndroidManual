@@ -187,8 +187,6 @@ In Guru Maps you can choose to represent your coordinates in any way you like. T
 * 18TWL 85577 09345 \(MGRS\)
 
 
-<img src="/assets/maps_storage.png" width="375" height="233" />
-
 ## Navigation Settings {#navigationSettings}
 
 #### Navigation Mode
@@ -271,4 +269,6 @@ There are several ways to restore your data from a backup:
 
 If your device supporting SD Card memory extension and one of your storages become insufficient you can change default Map Download Storage in Settings &gt; Maps Storage. 
 After selecting one of the available storages all downloaded Maps will be moved to selected one. Maps will be downloaded on the storage with the largest amount of free space by default. If you don’t see Maps Storage Settings your device might not support SD Card memory extension or SD Card is not present.
+
+<img src="/assets/maps_storage.png" width="375" height="233" />
 
