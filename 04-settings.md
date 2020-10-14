@@ -2,48 +2,6 @@
 
 > Guru Maps is available in a ready-to-use state and app settings should be considered as an optional and more advanced way of using the app. Settings let you configure app options, purchase additional features and manage geo data representation.
 
-## Map Source {#MapSources}
-
-To switch to another map to display, select **Map Source** menu in app settings. There are two types of maps you can use within the app: offline and online maps.
-
-### Offline maps
-						
-Vector map source is set by default. Once you’ve downloaded it (**internet connection required**), it will be available offline.
-Vector maps are detailed, smooth, fast and provide high-quality image rendered in real time on the device. It takes up less storage space than raster maps.
-
-**Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on a computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection. However, any personal raster/tile maps will use considerably more space than vector maps you may install.
-
-Read also: [Offline Maps Import](/04-tips-and-tricks-and-troubleshooting.md)
-	 						 						
-### Online maps
-
-There is a list of built-in raster map sources available online:
-				 						
-* HikeBikeMap
-* Humanitarian OSM
-* OpenBusMap
-* OpenCycleMap
-* OpenStreetMap
-* Stamen – Terrain (USA only)
-* Stamen – Toner
-						 						
-Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in to the lowest viewable level of detail while you have access to the Internet. The level of saved detail will reflect the zoom level you viewed.
-
-Read also: [Cache Info](/03-settings.md#cacheInfo).
-						 						
-**Note**: map download speed can vary while using online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
-
-In addition to built-in online raster maps, Guru Maps also supports custom online maps. You can add any source you like using a special XML file that contains a description of map provider.
-
-Read also: [Custom Map Sources](/04-tips-and-tricks-and-troubleshooting.md#customMapSources).
-
-### Additional source
-
-You can add more online map sources to Guru Maps here: 
-* https://ms.galileo-app.com/
-* https://custom-map-source.appspot.com
-
-
 ## Vector Maps Settings {#vectorMapsSettings}
 
 ### Font and Languages {#fontsAndLanguages}
@@ -63,34 +21,40 @@ In some regions, objects on the map in addition to local names have names in oth
 
 In addition to the basic appearance settings, you can select the objects you wish to display on the vector map. Select only the objects that you want to display to keep the map tidy and uncluttered:
 
-* Restaurants, cafes, fast foods
-* Bars, pubs, clubs
-* Beauty salons, hairdressers
-* Entertainment, arts and culture
-* Monuments, places of worship
-* Tourist attractions
-* Hotels, hostels, campsites
 * Banks, ATMs, currency exchanges
-* Parking, gas and service stations
-* Hospitals, clinics, pharmacy
-* Shopping malls, supermarkets
-* Police, post offices, embassies
-* Universities, colleges, schools
-* Public transport stops
-* Train and metro stations
+* Beauty salons, hairdressers
 * Building names and numbers
+* Entertainment, arts and culture
+* Hospitals, clinics, pharmacy
+* Hotels, hostels, campsites
+* Monuments, places of worship
+* Parking, gas and service stations
+* Pistes and ski lifts
+* Police, post offices, embassies
+* Public transport stops
+* Pubs, bars, clubs
+* Restaurants, cafes, fast foods
+* Shopping malls, supermarkets
+* Sport complexes, leisure centres
+* Tourist attractions
+* Universities, colleges, schools
+* Train and metro stations
+* Universitites, colleges, schools
 
 ### Online Maps Settings {#cacheInfo}
 
+<img src="/assets/cache_info.png" width="375" />
+
+#### Mobile Data Usage
+To disable Guru Maps to use your mobile data, go to Settings &gt; Online Maps and turn the "Download via WiFi only" option on.
+
 #### Map Refresh
 
-To set how often to refresh cached map tiles, go to Settings &gt; Cache Info. All tiles older than selected time will be downloaded while browsing online.
-
-<img src="/assets/cache_info.png" width="375" height="403" />
+To set how often to refresh cached map tiles for online maps, go to Settings &gt; Online Maps. All tiles older than selected time will be downloaded while browsing online.
 
 #### Cache Info
 
-All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space.
+All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Online Maps, so you can delete the tiles you no longer need if you want to free up storage space.
 
 
 ## Appearance Settings {#appearance}
@@ -189,25 +153,24 @@ In Guru Maps you can choose to represent your coordinates in any way you like. T
 
 ## Navigation Settings {#navigationSettings}
 
-#### Navigation Mode
+#### Route options
 
-Select the mode in which the route will be built.
+To personalize your navigationg settings, go to to Settings &gt; Navigation and switch to the right mode (driving, cycling, walking):
 
-* **Online** - internet connection required to build a route:
+<img src="/assets/route_options.png" width="375"/>
 
-<img src="/assets/settings_navigation_1.png" width="375" height="173" />
+<img src="/assets/route_options_2.png" width="375"/>
 
-* **Online First** - if there's no internet connection, the rout will be build using an offline navigation data (downloaded navigation data required):
+<img src="/assets/route_options_3.png" width="375"/>
 
-<img src="/assets/settings_navigation_2.png" width="375" height="222" />
 
-* **Offline** -  no internet connection required to build a route (downloaded navigation data required):
+#### Use navigation online
 
-<img src="/assets/settings_navigation_3.png" width="375" height="222" />
+Enable to build the routes online first. If there is no Internet conection, the route will be built using an offline navigation data (if downloaded):
 
-**Note:** to download a map with navigation data you need to use "Online First" or "Offline" mode.
+<img src="/assets/navigation_online_mode.png" width="375"/>
 
-#### Voice Instructions
+#### Voice instructions {#voiceSettings}
 
 The default language for voice instructions you hear while navigating a route depends on the language your device is set to use.  
 To change the language, select one from the Voice Instructions list:
@@ -215,6 +178,13 @@ To change the language, select one from the Voice Instructions list:
 **Note**: as the App uses text-to-speech \(TTS\) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
 
 <img src="/assets/settings_navigation_language.png" width="375" height="414" />
+
+#### Auto-record track during navigation
+
+Enable "Auto-record track during navigation" option to save the finished routes automatically as GPS tracks to your collections.
+You can also choose where recorded routes are stored in your collections.
+
+<img src="/assets/auto_saved_routes.png" width="375"/>
 
 
 ## Synchronization {#sync}
@@ -225,7 +195,7 @@ App uses Facebook/Google login only for authentication, this does not let the Gu
 
 To enable synchronization feature, go to the app Settings > Sync and select the appropriate way to authenticate.
 
-<img src="/assets/sync.png" width="375" height="402" />
+<img src="/assets/sync.png" width="375" />
 
 
 

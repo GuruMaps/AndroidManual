@@ -98,7 +98,6 @@ You can edit your search criteria to find exactly what you want. Just tap the se
 <img src="/assets/search_categories_refine.png" width="375" />
 
 
-
 #### Search by address
 
 Start typing the street name, and Guru starts offering matching entries, choose one you want:
@@ -122,7 +121,7 @@ If you know the exact coordinates of a location, you can simply enter them into 
 
 You may enter the coordinates in any of the supported coordinate formats. To avoid confusion while inputting coordinates from the keyboard it is possible to use spaces instead of \(‘\) Right Single Quotation Mark, \(”\) Right Double Quotation Mark or \(°\) Degree Sign.
 
-Read also: [Units Format](03-settings.md#unitsFormat).
+Read also: [Units Format](04-settings.md#unitsFormat).
 
 
 
@@ -132,7 +131,7 @@ Guru Maps gives you the ability to find the best multi-stop route and get step b
 
 **Note:** to build a route offline you need to download navigation data first. 
 
-Read also: [Download maps and navigation data](03-settings.md#download).
+Read also: [Download maps and navigation data](04-settings.md#download).
 
 #### Create route
 
@@ -221,7 +220,7 @@ Tap the 3-dots button in the top right corner of route planner screen and select
  • **Open Search** to look for a place along your route, like a restaurant, gas station, etc.
 
 
- Read also: [Navigation Settings](/03-settings.md#navigationSettings). 
+ Read also: [Navigation Settings](/04-settings.md#navigationSettings). 
 
 
 **Note**: created route does not take in account the real-time or historical traffic data.
@@ -259,31 +258,15 @@ A long tap on the sound icon allows choosing one of the supported languages, whi
 
 You can easily import KML/KMZ/GPX files to view them on the map in several ways using email, URL or Files app.
 
-#### Email
-
-If you have a KML/KMZ/GPX file that someone shared with you via email, you can view it in the Guru Maps app:
-	
-* Open the message containing the KML/KMZ/GPX file as an attachment.
-* Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
-* Choose the "Open with Guru Maps" option to initiate the file import process.
-
-<img src="/assets/import_1.png" width="375" />
-
-#### File Manager/Dropbox
-
-If you saved KML/KMZ/GPX file on your device storage or inserted SD Card with some KML/KMZ/GPX files, you can add it to your Collections in Guru Maps by clicking on them from any of installed file managers on your device.
-
-#### URL
-In case you have a web link to the KML/KMZ/GPX file:  
-
-* Tap the link to open it in your browser.  
-* Select "Guru Maps" option to initiate the import process.
+Tap the file you want to add from your File manager or from email attachment, select to Open in another app &gt; Open with Guru Maps.
 
 
-**Note**: There is also an option to import multiple folders from a single KML file separately or merge them into one collection available:
+<img src="/assets/import_1.png" width="375" /> <img src="/assets/import_2.png" width="375" />
 
-* Keep several collections
-* Save to one collection
+There is also an option to import multiple folders from a single KML file separately or merge them into one collection available:
+
+* Keep several collections,
+* Save to one collection.
 
 ## Exporting Geodata {#exporting}
 
@@ -452,7 +435,7 @@ Tap and hold any element or tap **Edit** button to delete selected elements or m
 <img src="/assets/collelctions_edit_actions.png" width="375" />
 
 
-![](/assets/icon_checkmark_multiple_preview.png) — select all, ![](/assets/icon_choose_folder_preview.png) — move to, ![](/assets/icon_trash.png) — delete, ![](/assets/icon_share.png) — share, ![](/assets/icon_routing_blue.png) — find the shortest route for selected bookmarks (route starts and ends at your current location).
+![](/assets/icon_checkmark_multiple_preview.png) — select all, ![](/assets/icon_routing_blue.png) — find the shortest route for selected bookmarks (route starts and ends at your current location), ![](/assets/icon_share.png) — share, ![](/assets/icon_choose_folder_preview.png) — move to, ![](/assets/icon_trash.png) — delete.
 
 
 
@@ -472,4 +455,4 @@ To **view collection on the map** tap the ![](/assets/icon_show_on_map.png) icon
 
 To **show & hide** collection from map, scroll down the collection details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it tap ![](/assets/icon_show.png) icon.
 
-To **Export a collection** tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.  
+To **export a collection** tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.  
